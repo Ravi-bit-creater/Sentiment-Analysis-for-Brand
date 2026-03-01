@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "brand-sentiment-monitor",
+  "private_key_id": "1388dad4e921c0f17e321c89bc1543f4f9840fab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdpAMxGkDQH2bf\n0Z+Wr6poOKMeF5Ntc3u/emCX5CRn0EA7/mVBMZNKQHSRYyQpzzLI5rldp1i4Adx6\ne6/fezLnp6L2NdjzdSzz6TaJ7vF2zkzpWYsPhePCdD/t0b/Trg63ySuQOEw30ijk\n1mCqxekNlEDj80Yf6uYizyZ/nKPcrRDpDGuBnOPEn1jNKprfVK12bqkKmhQZ2SFs\n5Ze1T22WGu0ygp4IMnEeV/fPF27sLgIdKCULBK5kf5vyCfyFz7Z/mNxpoawWpiF4\na+7oEJWUuHly4EHvLqbXx7vy7+K8tW6T+3zNF5J+fnjapHBjLAnxK0AnR1m/r6RL\nm+fsyJCPAgMBAAECggEAMHaf1JSxoEpHIkAbxAO1a90dqL6uwFNkk/VXhNrKpm/L\nj6YiEuzez1EJhTjpgUEF5+WmzzgHemp4Ed+8rgP+HmHXI8JiNFatvz7PWZBwA4pg\n8sxoiBktcDa1ALQfOUClnbLnBauJIxAlKlUN2vKFN3uAh5Pe1yksHz94IntRlSHU\nLF2RWRs45NpLKPOagbvca9BGaieEz1g3ZVrZhHwxnBhOgR3PyrBM/2e6+2rtdelt\nPlX3SUaxF/WlHFYDNPT4F9nUXEsBBYctA2joJ5dKqT5wSK/p+Bpl/p19qFlhDvsk\nha3ppgmOXf4lfIcmfi9myPAIeqFXC//IcRRpUk9pAQKBgQDL+H8yZYPgQG0/jgNy\nYVl5CQ+TQ7LwXBQQW6tX3gJJ+5sLfGX7ho5aNSjCQwgbvRRvcX+mF5sd4s7A49ta\nsQwdZajrSFBI9QpBtSCg671Ki/VhyxfQH3lvRo22iNifdW0bXTPryJ8/MVpJWCYi\nldccw8M137T/BuL97JqHWseF7wKBgQDF2h2+lxWVR0SmMOMcohZEPNNkhezlWA7h\nBMxH4TCzr4QrL0WjXTL1n/0eBsZ7rhJ3460Zqx2afDfHkI596WV1dp2awNy6y7bH\nSKG19wv1Y58J8a2tbXXqJky4i5iXfTRBhE5PJns3m6himsdzsyIkHRthNJddWQLf\nln6Gp1c/YQKBgAO9sQeJmRuZ0uchgaqtYmi349M9oKCL78pFBCV+auhUdwmE5JHy\na9X3t6GofROVKjTJDiBLuoqXyFb9Vt6Y9LHtVWXLU72i0OdXnRuWd0hQvNVoVi15\nBk8mKh8471AtZSzlTrh6W4FbNF64ASsNOH7MkF4Cll0/ERa7KjJlVdd9AoGAS/7k\nz/FOfAFc8Az1H2lu7hUDCaibfthdFrd2E+H+h/ZR6RiGQiKpUUl7uw3VLWqGc4CD\nW8mrXEx8TG5NHTYKH51JGkkcP6/B7DgMzU0wTbhPPU2UbXoPAbpmW7hbC00vRj8g\nqSxZxdlHS2CyXdGfuolnm+XMgjGPdfxjaytZyuECgYBez7Fi9KlW9WpSKbltwuVX\ng3TUzVtUqrqFY6DbiKQCu+Qv1AmYLZlvVwZdMCNTzhcfQRf2HQGkXwDt9r1SxEwE\n0qlA822g40ZKXa1pKByxgMxBM6uIL3+i0j7N2AdcDYJ429qw12xAW4na3FKqnPNf\n7ybrMAtRCFJqfh35xbJc3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brand-sheets-bot@brand-sentiment-monitor.iam.gserviceaccount.com",
+  "client_id": "115161262321775630262",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brand-sheets-bot%40brand-sentiment-monitor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

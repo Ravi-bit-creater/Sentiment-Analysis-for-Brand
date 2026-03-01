@@ -1,0 +1,1001 @@
+﻿id,text,language,platform,region,date,aspect,sentiment,sarcasm
+1,Idhu Customer service mass. Quick response.,ta,reviews,MH,2026-02-15,service,positive,0
+2,Great service 👏 no response for 24 hours wait pannanum,en,instagram,TN,2025-12-02,price,negative,1
+3,Idhu Return/refund smooth experience.,ta,reviews,TS,2025-12-29,refund,positive,0
+4,Idhu Courier smooth-a deliver pannanga.,ta,youtube,DL,2026-01-21,delivery,positive,0
+5,"Idhu Complaint raise panniten, no update.",ta,support,KL,2025-12-31,service,negative,0
+6,Great service 👏 1 day wait pannanum,mix,twitter,KL,2025-12-07,quality,negative,1
+7,"Idhu Packaging damage, product scratch.",ta,reviews,MH,2025-12-18,packaging,negative,0
+8,"Material good, value for money.",mix,twitter,MH,2025-12-06,quality,positive,0
+9,"Refund romba slow, no response for 24 hours aachu.",mix,twitter,AP,2025-12-13,refund,negative,0
+10,Box normal-a irundhuchu.,mix,reviews,KA,2026-01-13,packaging,neutral,0
+11,"Idhu Complaint raise panniten, no update.",ta,youtube,KL,2025-12-28,service,negative,0
+12,"Idhu Fast delivery, 8 days la vandhuduchu ✅",ta,youtube,KL,2026-02-25,delivery,positive,0
+13,Idhu Costly and quality poor.,ta,twitter,DL,2026-01-23,price,negative,0
+14,"Product received today, open pannala.",mix,support,TS,2026-01-03,delivery,neutral,0
+15,"Price ok, but features compare pannitu paakanum.",en,instagram,DL,2025-12-27,price,neutral,0
+16,Refund status pending.,mix,instagram,TS,2026-02-13,refund,neutral,0
+17,Wow amazing… came damaged 🙃,mix,support,AP,2025-12-06,refund,negative,1
+18,"Support reply pannala, 1 hour wait 😤",mix,support,MH,2026-01-10,service,negative,0
+19,"Packing super, safe-a vandhuduchu.",mix,youtube,KA,2025-12-18,packaging,positive,0
+20,Wow amazing… came damaged 🙃,en,support,KA,2026-01-01,quality,negative,1
+21,Super quality… 10 days la stopped working 😏,ta,instagram,TS,2026-02-10,delivery,negative,1
+22,Login and checkout easy ✅,en,youtube,TS,2026-02-07,app,positive,0
+23,Costly and quality poor.,en,support,DL,2026-01-19,price,negative,0
+24,Looks fine. Long-term paakanum.,mix,instagram,AP,2026-02-22,quality,neutral,0
+25,Customer care number busy.,mix,reviews,AP,2025-12-23,service,neutral,0
+26,"Idhu Price ok, but features compare pannitu paakanum.",ta,youtube,DL,2026-01-31,price,neutral,0
+27,"Support ticket raised, waiting.",mix,instagram,KA,2025-12-09,service,neutral,0
+28,Refund status pending.,mix,support,KL,2026-01-06,refund,neutral,0
+29,"Support reply pannain, 1 day wait 😤",en,twitter,TN,2026-01-16,service,negative,0
+30,Idhu Delivery nalla! on-time arrived.,ta,reviews,KL,2026-02-11,delivery,positive,0
+31,Idhu Installed. Will try later.,ta,reviews,KL,2026-01-12,app,neutral,0
+32,"Packing super, safe-a arrived.",en,twitter,KL,2026-01-15,packaging,positive,0
+33,Delivery super! on-time arrived.,mix,youtube,AP,2026-01-09,delivery,positive,0
+34,No comments on packaging.,en,twitter,TN,2025-12-01,packaging,neutral,0
+35,"Packaging neat, no damage.",en,youtube,KA,2026-02-13,packaging,positive,0
+36,"No bubble wrap, worst packing.",mix,support,DL,2026-02-03,packaging,negative,0
+37,"Idhu Product received today, open pannala.",ta,support,AP,2026-01-05,delivery,neutral,0
+38,Login and checkout easy ✅,mix,support,TN,2026-01-27,app,positive,0
+39,"Bug romba, worst experience.",mix,instagram,TN,2025-11-29,app,negative,0
+40,"No bubble wrap, worst packing.",mix,support,DL,2026-01-26,packaging,negative,0
+41,"Service worst, nobody answered.",mix,instagram,KL,2026-01-24,service,negative,0
+42,Same product elsewhere cheaper.,mix,youtube,KA,2026-02-06,price,negative,0
+43,Customer service semma. Quick response.,mix,support,KL,2026-01-01,service,positive,0
+44,"Courier rude, package damage aayiduchu.",en,twitter,KL,2026-01-10,delivery,negative,0
+45,Wow amazing… late delivery 🙃,mix,youtube,MH,2025-12-14,packaging,negative,1
+46,Super quality… 2 days la stopped working 😏,en,support,TN,2025-12-25,price,negative,1
+47,"Compinint raise panniten, no update.",en,reviews,KL,2025-12-09,service,negative,0
+48,Idhu Costly and quality poor.,ta,youtube,DL,2026-01-07,price,negative,0
+49,Great service 👏 1 hour wait pannanum,mix,twitter,MH,2025-12-19,app,negative,1
+50,Idhu Return approve pannala.,ta,instagram,AP,2026-01-03,refund,negative,0
+51,8 days la itself stopped working.,mix,support,AP,2026-02-02,quality,negative,0
+52,Idhu Worth for money ✅,ta,reviews,MH,2026-02-17,price,positive,0
+53,"Idhu Bug romba, romba mosam experience.",ta,instagram,DL,2025-12-19,app,negative,0
+54,"App crash aagudhu, screen issue.",en,instagram,TN,2025-12-14,app,negative,0
+55,"Idhu Support reply pannala, 2 hours wait 😤",ta,youtube,DL,2026-01-08,service,negative,0
+56,Installed. Will try later.,mix,reviews,TN,2026-01-05,app,neutral,0
+57,Box normal-a irundhuchu.,en,instagram,KA,2025-12-14,packaging,neutral,0
+58,Login and checkout easy ✅,mix,reviews,TS,2026-02-03,app,positive,0
+59,Idhu 1 days la itself came damaged.,ta,support,TN,2025-12-11,quality,negative,0
+60,Arrived. Will test and update.,mix,instagram,MH,2026-02-09,delivery,neutral,0
+61,Idhu Customer care number busy.,ta,support,AP,2025-12-04,service,neutral,0
+62,"Idhu Refund romba slow, no response for 24 hours aachu.",ta,instagram,TN,2026-02-09,refund,negative,0
+63,"Delivery ok, but pakainm.",en,twitter,AP,2026-01-02,delivery,neutral,0
+64,"Idhu Service romba mosam, nobody answered.",ta,reviews,DL,2026-01-14,service,negative,0
+65,Wow amazing… came damaged 🙃,ta,instagram,KA,2025-11-27,packaging,negative,1
+66,Replacement fast-a arrange pannanga.,mix,reviews,TS,2025-12-26,service,positive,0
+67,"Refund stuck, no update.",mix,twitter,TN,2026-02-19,refund,negative,0
+68,Idhu Delivery romba mosam. Tracking update illa.,ta,support,AP,2026-02-21,delivery,negative,0
+69,Costly and quality poor.,mix,twitter,DL,2025-12-14,price,negative,0
+70,Great service 👏 no response for 24 hours wait pannanum,mix,youtube,DL,2025-12-27,packaging,negative,1
+71,"Service worst, nobody answered.",mix,youtube,KL,2025-12-04,service,negative,0
+72,"Idhu App crash aagudhu, battery drain.",ta,reviews,MH,2026-02-02,app,negative,0
+73,Refund status pending.,en,reviews,TS,2025-12-27,refund,neutral,0
+74,"Idhu Service romba mosam, nobody answered.",ta,support,TS,2025-12-14,service,negative,0
+75,"Return initiated, waiting.",en,twitter,KL,2026-02-03,refund,neutral,0
+76,Refund quick-a process aayiduchu ✅,en,instagram,TN,2026-02-10,refund,positive,0
+77,Price ok for this quality.,en,twitter,KA,2026-01-27,price,positive,0
+78,Customer service vera level. Quick response.,mix,support,AP,2026-02-18,service,positive,0
+79,"Delivery romba late, 4 days delay 😡",mix,reviews,DL,2026-01-06,delivery,negative,0
+80,"Idhu App UI smooth, easy to use.",ta,twitter,KA,2025-12-30,app,positive,0
+81,"Support team helpful, issue solve pannitanga.",mix,instagram,TS,2026-01-29,service,positive,0
+82,Wow amazing… late delivery 🙃,mix,youtube,DL,2025-12-18,app,negative,1
+83,"No bubble wrap, worst packing.",mix,twitter,MH,2026-02-02,packaging,negative,0
+84,Price ok for this quality.,mix,instagram,TN,2025-11-28,price,positive,0
+85,Payment failure repeatedly.,mix,twitter,AP,2025-11-27,app,negative,0
+86,Idhu Quality mass! build strong 💯,ta,support,TN,2026-02-24,quality,positive,0
+87,Price ok for this quality.,mix,support,TS,2025-12-29,price,positive,0
+88,Super quality… 2 days la broke in 1 day 😏,mix,instagram,KA,2026-01-04,packaging,negative,1
+89,Customer care number busy.,mix,reviews,AP,2026-02-05,service,neutral,0
+90,Idhu Return approve pannala.,ta,youtube,AP,2026-02-07,refund,negative,0
+91,Arrived. Will test and update.,mix,youtube,TN,2026-02-04,delivery,neutral,0
+92,Same product elsewhere cheaper.,mix,reviews,DL,2025-12-06,price,negative,0
+93,"Support reply pannala, 2 hours wait 😤",mix,instagram,DL,2026-02-23,service,negative,0
+94,Idhu Looks fine. Long-term paakanum.,ta,support,TS,2026-02-11,quality,neutral,0
+95,"Price romba high, not worth.",mix,support,KL,2026-01-14,price,negative,0
+96,App performance nice.,mix,twitter,TN,2025-12-31,app,positive,0
+97,"Delivery very inte, 8 days deiny 😡",en,twitter,TN,2026-01-05,delivery,negative,0
+98,Idhu Will contact support later.,ta,support,AP,2026-02-06,service,neutral,0
+99,Delivery worst. Tracking update ilin.,en,support,TS,2026-01-07,delivery,negative,0
+100,"Packaging neat, no damage.",en,support,KA,2026-02-01,packaging,positive,0
+101,Customer care number busy.,en,twitter,KA,2025-12-18,service,neutral,0
+102,Quality hate. screen issue iruku.,en,reviews,KA,2026-02-11,quality,negative,0
+103,Idhu Customer service excellent. Quick response.,ta,support,KL,2026-01-14,service,positive,0
+104,"Material good, value for money.",mix,instagram,TS,2026-01-27,quality,positive,0
+105,Requested refund today.,mix,youtube,KA,2026-01-14,refund,neutral,0
+106,Well packed ✅,mix,support,KA,2025-11-30,packaging,positive,0
+107,Great service 👏 3 days wait pannanum,mix,youtube,KA,2025-12-27,service,negative,1
+108,Courier smooth-a deliver did.,en,support,AP,2026-01-27,delivery,positive,0
+109,"Refund stuck, no update.",en,support,TS,2026-02-16,refund,negative,0
+110,Box normal-a irundhuchu.,mix,support,TN,2026-02-17,packaging,neutral,0
+111,Worth for money ✅,mix,support,TS,2026-02-06,price,positive,0
+112,"Idhu Packing poor, box torn.",ta,support,MH,2025-12-16,packaging,negative,0
+113,"Courier rude, package damage aayiduchu.",en,instagram,DL,2026-01-10,delivery,negative,0
+114,Great service 👏 1 hour wait pannanum,mix,reviews,TN,2026-02-24,service,negative,1
+115,"Delivery romba late, 6 days delay 😡",mix,twitter,DL,2025-11-29,delivery,negative,0
+116,Well packed ✅,mix,youtube,KA,2026-02-06,packaging,positive,0
+117,"App crash aagudhu, overheating.",mix,reviews,AP,2025-11-30,app,negative,0
+118,Installed. Will try later.,mix,instagram,KA,2026-01-01,app,neutral,0
+119,"Courier rude, package damage aayiduchu.",mix,reviews,KL,2026-02-02,delivery,negative,0
+120,Return approve pannala.,mix,support,AP,2025-12-19,refund,negative,0
+121,"Delivery ok, but pakalam.",mix,youtube,KA,2026-02-23,delivery,neutral,0
+122,"Support reply pannala, 2 hours wait 😤",mix,reviews,KA,2026-02-16,service,negative,0
+123,Looks fine. Long-term paakanum.,en,reviews,DL,2026-02-14,quality,neutral,0
+124,"No bubble wrap, worst packing.",mix,reviews,TS,2026-01-18,packaging,negative,0
+125,Wow amazing… came damaged 🙃,mix,instagram,DL,2026-01-03,delivery,negative,1
+126,Idhu Cheap feel. Not recommended.,ta,reviews,KA,2026-02-07,quality,negative,0
+127,Refund quick-a process aayiduchu ✅,en,twitter,DL,2026-01-22,refund,positive,0
+128,Replacement fast-a arrange pannanga.,mix,youtube,KL,2025-12-08,service,positive,0
+129,"Packaging neat, no damage.",mix,reviews,MH,2025-12-18,packaging,positive,0
+130,No comments on packaging.,mix,support,KL,2026-02-03,packaging,neutral,0
+131,"Idhu App UI smooth, easy to use.",ta,twitter,DL,2025-12-14,app,positive,0
+132,Price ok for this quality.,en,youtube,MH,2025-12-28,price,positive,0
+133,Replacement fast-a arrange pannanga.,mix,twitter,TN,2026-01-17,service,positive,0
+134,"Courier rude, package damage aayiduchu.",en,twitter,DL,2026-01-24,delivery,negative,0
+135,Quality ok. Normal usage ku podhum.,mix,youtube,KL,2026-01-09,quality,neutral,0
+136,"App UI smooth, easy to use.",mix,reviews,DL,2025-11-29,app,positive,0
+137,Great service 👏 1 day wait pannanum,mix,youtube,KA,2025-12-17,app,negative,1
+138,"Delivery romba late, 7 days delay 😡",mix,instagram,KL,2025-12-03,delivery,negative,0
+139,"Idhu Price romba high, not worth.",ta,twitter,AP,2025-12-13,price,negative,0
+140,Idhu Return/refund smooth experience.,ta,instagram,AP,2026-01-27,refund,positive,0
+141,"Material good, value for money.",mix,instagram,KL,2026-01-14,quality,positive,0
+142,"App UI smooth, easy to use.",mix,reviews,KA,2026-01-10,app,positive,0
+143,Delivery super! on-time arrived.,mix,twitter,KA,2026-02-10,delivery,positive,0
+144,Idhu Payment failure repeatedly.,ta,instagram,TN,2026-02-05,app,negative,0
+145,"Packing super, safe-a arrived.",en,instagram,TS,2026-01-16,packaging,positive,0
+146,"Idhu Complaint raise panniten, no update.",ta,support,MH,2025-12-06,service,negative,0
+147,"Support ticket raised, waiting.",mix,support,KL,2026-02-22,service,neutral,0
+148,Great service 👏 1 day wait pannanum,mix,twitter,KA,2025-12-04,quality,negative,1
+149,"Idhu Refund romba slow, 1 day aachu.",ta,reviews,AP,2026-02-24,refund,negative,0
+150,Packaging ok.,mix,instagram,KA,2026-02-03,packaging,neutral,0
+151,"Offer in super deal, super price.",en,reviews,TN,2025-12-11,price,positive,0
+152,Idhu Login and checkout easy ✅,ta,twitter,KA,2025-12-17,app,positive,0
+153,Idhu Refund status pending.,ta,youtube,DL,2025-12-12,refund,neutral,0
+154,Great service 👏 1 day wait pannanum,ta,twitter,TS,2026-01-29,app,negative,1
+155,"Idhu Support ticket raised, waiting.",ta,support,DL,2025-12-18,service,neutral,0
+156,"App ok, sometimes slow.",mix,twitter,TS,2025-12-02,app,neutral,0
+157,Idhu Same product elsewhere cheaper.,ta,twitter,DL,2026-02-05,price,negative,0
+158,Return approve pannala.,mix,support,TN,2026-01-13,refund,negative,0
+159,"Delivery ok, but pakalam.",mix,youtube,AP,2026-01-05,delivery,neutral,0
+160,Well packed ✅,en,youtube,DL,2026-02-14,packaging,positive,0
+161,No comments on packaging.,en,instagram,DL,2025-12-16,packaging,neutral,0
+162,"Refund romba slow, no response for 24 hours aachu.",mix,twitter,MH,2026-01-08,refund,negative,0
+163,Idhu Will contact support later.,ta,twitter,AP,2025-12-15,service,neutral,0
+164,Idhu Quality poor. screen issue iruku.,ta,twitter,AP,2026-02-09,quality,negative,0
+165,Customer service vera level. Quick response.,mix,instagram,MH,2025-12-27,service,positive,0
+166,Looks fine. Long-term paakanum.,en,twitter,KA,2025-12-22,quality,neutral,0
+167,Idhu Quality hate. camera blur iruku.,ta,twitter,AP,2026-02-03,quality,negative,0
+168,Idhu Courier smooth-a deliver pannanga.,ta,youtube,KA,2026-02-25,delivery,positive,0
+169,Same product elsewhere cheaper.,mix,reviews,KL,2026-01-31,price,negative,0
+170,"Idhu Packing poor, box torn.",ta,support,MH,2025-12-28,packaging,negative,0
+171,Idhu Refund came within 4 days.,ta,instagram,DL,2025-12-13,refund,positive,0
+172,Idhu Quality ok. Normal usage ku podhum.,ta,twitter,DL,2025-11-29,quality,neutral,0
+173,Arrived. Will test and update.,mix,twitter,AP,2025-12-18,delivery,neutral,0
+174,"Compinint raise panniten, no update.",en,youtube,KA,2025-12-24,service,negative,0
+175,Packaging ok.,en,instagram,TS,2026-02-17,packaging,neutral,0
+176,"Idhu Material good, value for money.",ta,instagram,AP,2026-01-19,quality,positive,0
+177,Refund status pending.,mix,youtube,AP,2026-02-07,refund,neutral,0
+178,"Packing poor, box torn.",mix,twitter,KA,2026-01-01,packaging,negative,0
+179,Idhu Price average.,ta,instagram,MH,2025-12-31,price,neutral,0
+180,Super quality… 1 days la came damaged 😏,mix,support,KA,2026-01-06,price,negative,1
+181,"App crash aagudhu, sound problem.",mix,youtube,MH,2026-02-07,app,negative,0
+182,"Service worst, nobody answered.",en,twitter,TN,2025-12-04,service,negative,0
+183,"No bubble wrap, worst packing.",en,instagram,KA,2026-01-09,packaging,negative,0
+184,"Price romba high, not worth.",mix,twitter,DL,2026-02-02,price,negative,0
+185,Idhu Cheap feel. Not recommended.,ta,youtube,KL,2025-12-14,quality,negative,0
+186,Idhu Packaging ok.,ta,support,MH,2026-01-11,packaging,neutral,0
+187,"App UI smooth, easy to use.",en,support,TN,2026-01-16,app,positive,0
+188,"App UI smooth, easy to use.",mix,twitter,TS,2026-01-29,app,positive,0
+189,App performance vera level.,mix,youtube,TN,2026-01-23,app,positive,0
+190,Idhu Return approve pannala.,ta,twitter,TN,2025-12-03,refund,negative,0
+191,Idhu 8 days la itself broke in 1 day.,ta,reviews,TS,2025-12-09,quality,negative,0
+192,Wow amazing… came damaged 🙃,mix,youtube,KL,2025-12-10,delivery,negative,1
+193,Costly and quality poor.,en,twitter,MH,2026-02-05,price,negative,0
+194,Not sure if worth yet.,mix,reviews,TS,2025-12-17,price,neutral,0
+195,No comments on packaging.,en,support,MH,2025-12-30,packaging,neutral,0
+196,No comments on packaging.,en,reviews,DL,2025-12-16,packaging,neutral,0
+197,Idhu Installed. Will try later.,ta,reviews,TS,2025-12-22,app,neutral,0
+198,"Idhu Refund romba slow, 3 days aachu.",ta,youtube,TN,2026-01-16,refund,negative,0
+199,Quality bad. sound problem iruku.,mix,youtube,AP,2025-12-20,quality,negative,0
+200,Idhu Return approve pannala.,ta,support,KL,2025-12-04,refund,negative,0
+201,Refund quick-a process aayiduchu ✅,en,instagram,TS,2026-02-05,refund,positive,0
+202,"Support reply pannala, 2 hours wait 😤",mix,twitter,KL,2026-01-16,service,negative,0
+203,Return approve pannain.,en,instagram,KA,2025-12-02,refund,negative,0
+204,Quality cheap. camera blur iruku.,mix,twitter,MH,2025-12-08,quality,negative,0
+205,Refund came within 9 days.,en,support,MH,2026-02-10,refund,positive,0
+206,"Idhu Packaging damage, product scratch.",ta,twitter,TS,2025-12-10,packaging,negative,0
+207,"Support team helpful, issue solve pannitanga.",en,reviews,MH,2026-02-08,service,positive,0
+208,"Packaging damage, product scratch.",en,reviews,TS,2025-12-01,packaging,negative,0
+209,Idhu Courier smooth-a deliver pannanga.,ta,youtube,KL,2026-01-05,delivery,positive,0
+210,"Complaint raise panniten, no update.",mix,youtube,DL,2025-12-31,service,negative,0
+211,"Support team helpful, issue solve pannitanga.",mix,support,DL,2026-01-13,service,positive,0
+212,"Return initiated, waiting.",en,support,DL,2026-02-07,refund,neutral,0
+213,Repincement fast-a arrange did.,en,youtube,TN,2026-02-25,service,positive,0
+214,Idhu Delivery romba mosam. Tracking update illa.,ta,twitter,MH,2025-12-27,delivery,negative,0
+215,First impression average.,mix,instagram,KL,2025-12-30,quality,neutral,0
+216,Refund quick-a process aayiduchu ✅,en,instagram,KA,2026-02-17,refund,positive,0
+217,Refund status pending.,en,twitter,DL,2026-01-26,refund,neutral,0
+218,Idhu Installed. Will try later.,ta,youtube,MH,2026-01-20,app,neutral,0
+219,Login and checkout easy ✅,en,support,TS,2026-01-16,app,positive,0
+220,Idhu Box normal-a irundhuchu.,ta,youtube,TS,2026-01-04,packaging,neutral,0
+221,Wow amazing… late delivery 🙃,ta,youtube,MH,2025-12-21,quality,negative,1
+222,Refund status pending.,mix,support,DL,2026-01-17,refund,neutral,0
+223,"Complaint raise panniten, no update.",mix,reviews,AP,2025-12-01,service,negative,0
+224,"Refund romba slow, 3 days aachu.",mix,youtube,AP,2026-01-30,refund,negative,0
+225,Idhu App performance semma.,ta,support,KL,2025-12-20,app,positive,0
+226,"Refund stuck, no update.",mix,youtube,KL,2025-12-30,refund,negative,0
+227,Idhu Box normal-a irundhuchu.,ta,support,TS,2025-12-06,packaging,neutral,0
+228,"Idhu Service romba mosam, nobody answered.",ta,instagram,TN,2025-12-14,service,negative,0
+229,Return/refund smooth experience.,en,instagram,MH,2025-12-07,refund,positive,0
+230,Idhu First impression average.,ta,instagram,KA,2026-02-08,quality,neutral,0
+231,"Support reply pannain, 1 day wait 😤",en,reviews,AP,2026-01-27,service,negative,0
+232,Idhu Quality nalla! build strong 💯,ta,support,DL,2025-12-21,quality,positive,0
+233,"Idhu Delivery ok, but pakalam.",ta,support,AP,2026-02-10,delivery,neutral,0
+234,"App crash aagudhu, camera blur.",mix,support,TS,2026-02-02,app,negative,0
+235,Worth for money ✅,mix,reviews,DL,2025-11-29,price,positive,0
+236,Costly and quality poor.,mix,youtube,TN,2026-02-18,price,negative,0
+237,"Idhu Fast delivery, 1 days la vandhuduchu ✅",ta,twitter,MH,2026-02-18,delivery,positive,0
+238,No comments on packaging.,en,reviews,KL,2026-02-24,packaging,neutral,0
+239,Box normal-a irundhuchu.,mix,support,KL,2026-02-12,packaging,neutral,0
+240,Delivery worst. Tracking update illa.,mix,twitter,DL,2026-01-29,delivery,negative,0
+241,"Support team helpful, issue solve pannitanga.",mix,instagram,KL,2025-12-02,service,positive,0
+242,Courier smooth-a deliver pannanga.,mix,twitter,TN,2025-12-11,delivery,positive,0
+243,"App ok, sometimes slow.",mix,youtube,TN,2026-02-17,app,neutral,0
+244,Great service 👏 3 days wait pannanum,mix,twitter,KA,2026-01-03,refund,negative,1
+245,Wow amazing… stopped working 🙃,mix,twitter,DL,2025-11-28,delivery,negative,1
+246,"Service worst, nobody answered.",mix,youtube,TS,2025-12-08,service,negative,0
+247,Great service 👏 2 hours wait pannanum,en,reviews,DL,2026-02-23,quality,negative,1
+248,Wow amazing… missing parts 🙃,ta,twitter,MH,2025-12-17,price,negative,1
+249,Idhu Return approve pannala.,ta,reviews,TS,2025-12-20,refund,negative,0
+250,"Compinint raise panniten, no update.",en,reviews,TN,2026-01-22,service,negative,0
+251,"Idhu Refund romba slow, no response for 24 hours aachu.",ta,support,MH,2026-02-08,refund,negative,0
+252,"Support reply pannala, 1 hour wait 😤",mix,instagram,MH,2026-01-27,service,negative,0
+253,"Idhu Bug romba, romba mosam experience.",ta,support,KA,2026-01-26,app,negative,0
+254,9 days la itself broke in 1 day.,mix,support,TN,2025-12-25,quality,negative,0
+255,"Refund romba slow, 1 hour aachu.",mix,reviews,TS,2025-12-08,refund,negative,0
+256,Will contact support inter.,en,twitter,AP,2026-02-06,service,neutral,0
+257,"No bubble wrap, worst packing.",mix,reviews,KA,2026-01-09,packaging,negative,0
+258,Idhu No comments on packaging.,ta,youtube,AP,2026-01-23,packaging,neutral,0
+259,Idhu Refund came within 6 days.,ta,support,KL,2026-02-01,refund,positive,0
+260,Great service 👏 2 hours wait pannanum,en,reviews,MH,2025-12-10,app,negative,1
+261,Courier smooth-a deliver pannanga.,mix,reviews,DL,2025-12-24,delivery,positive,0
+262,Requested refund today.,mix,support,MH,2025-12-12,refund,neutral,0
+263,Great service 👏 2 hours wait pannanum,en,reviews,TS,2026-02-09,delivery,negative,1
+264,"Price ok, but features compare pannitu paakanum.",mix,instagram,MH,2025-12-10,price,neutral,0
+265,"Idhu Complaint raise panniten, no update.",ta,youtube,KL,2026-01-23,service,negative,0
+266,Well packed ✅,mix,youtube,DL,2026-02-05,packaging,positive,0
+267,Costly and quality poor.,en,instagram,MH,2026-01-30,price,negative,0
+268,Idhu Packaging ok.,ta,reviews,MH,2026-02-21,packaging,neutral,0
+269,"Support team helpful, issue solve pannitanga.",mix,twitter,KA,2026-02-20,service,positive,0
+270,Idhu Requested refund today.,ta,youtube,TN,2025-12-23,refund,neutral,0
+271,"Bug romba, worst experience.",mix,instagram,TS,2026-02-17,app,negative,0
+272,"Support reply pannain, 3 days wait 😤",en,youtube,AP,2026-02-05,service,negative,0
+273,Payment failure repeatedly.,mix,youtube,MH,2026-02-10,app,negative,0
+274,"Courier rude, package damage aayiduchu.",en,instagram,KA,2026-01-31,delivery,negative,0
+275,"Price romba high, not worth.",mix,support,KA,2025-12-29,price,negative,0
+276,Quality hate. overheating iruku.,mix,twitter,TS,2026-02-15,quality,negative,0
+277,Idhu Requested refund today.,ta,youtube,MH,2026-02-02,refund,neutral,0
+278,"Packing poor, box torn.",mix,twitter,AP,2026-01-10,packaging,negative,0
+279,"Refund romba slow, 3 days aachu.",mix,support,TS,2026-01-26,refund,negative,0
+280,Idhu UI average.,ta,support,TS,2025-12-28,app,neutral,0
+281,"Idhu Bug romba, romba mosam experience.",ta,twitter,KL,2026-02-01,app,negative,0
+282,Packaging ok.,mix,twitter,TN,2025-12-18,packaging,neutral,0
+283,"Price very high, not worth.",en,reviews,TS,2026-02-17,price,negative,0
+284,"Idhu Delivery ok, but pakalam.",ta,instagram,TN,2025-12-29,delivery,neutral,0
+285,"Idhu App crash aagudhu, overheating.",ta,reviews,AP,2026-01-06,app,negative,0
+286,Refund quick-a process aayiduchu ✅,mix,support,MH,2025-12-02,refund,positive,0
+287,Quality hate. battery drain iruku.,en,reviews,DL,2026-01-14,quality,negative,0
+288,"Idhu App ok, sometimes slow.",ta,support,AP,2026-01-03,app,neutral,0
+289,"Fast delivery, 10 days in arrived ✅",en,twitter,TN,2026-02-08,delivery,positive,0
+290,"Support team helpful, issue solve pannitanga.",en,support,MH,2025-12-15,service,positive,0
+291,Idhu Price average.,ta,support,MH,2025-12-03,price,neutral,0
+292,Same product elsewhere cheaper.,en,support,MH,2026-01-28,price,negative,0
+293,Packaging ok.,mix,instagram,TN,2026-01-06,packaging,neutral,0
+294,No comments on packaging.,mix,youtube,TS,2026-01-06,packaging,neutral,0
+295,"Bug romba, worst experience.",mix,reviews,MH,2026-01-01,app,negative,0
+296,Wow amazing… stopped working 🙃,mix,reviews,KL,2026-02-05,refund,negative,1
+297,"Refund stuck, no update.",en,instagram,KL,2026-02-03,refund,negative,0
+298,Payment failure repeatedly.,mix,support,TN,2026-02-09,app,negative,0
+299,Great service 👏 no response for 24 hours wait pannanum,ta,instagram,MH,2026-01-12,service,negative,1
+300,Not sure if worth yet.,mix,support,AP,2026-01-31,price,neutral,0
+301,Idhu Payment failure repeatedly.,ta,support,KA,2025-12-14,app,negative,0
+302,"Idhu App ok, sometimes slow.",ta,youtube,AP,2025-12-02,app,neutral,0
+303,Idhu Delivery romba mosam. Tracking update illa.,ta,instagram,MH,2026-02-01,delivery,negative,0
+304,Cheap feel. Not recommended.,mix,support,TN,2026-02-16,quality,negative,0
+305,"Bug romba, worst experience.",mix,twitter,DL,2026-02-01,app,negative,0
+306,Replacement fast-a arrange pannanga.,mix,reviews,DL,2026-02-12,service,positive,0
+307,"Bug very, worst experience.",en,instagram,KL,2025-12-16,app,negative,0
+308,Idhu Refund quick-a process aayiduchu ✅,ta,twitter,KL,2026-01-27,refund,positive,0
+309,Super quality… 9 days la stopped working 😏,mix,instagram,TN,2026-02-08,price,negative,1
+310,Delivery worst. Tracking update ilin.,en,instagram,TS,2025-12-04,delivery,negative,0
+311,Installed. Will try later.,mix,youtube,TN,2025-12-07,app,neutral,0
+312,Idhu No comments on packaging.,ta,support,KA,2025-12-20,packaging,neutral,0
+313,No comments on packaging.,en,instagram,TN,2026-01-14,packaging,neutral,0
+314,Login and checkout easy ✅,en,instagram,AP,2026-02-12,app,positive,0
+315,"Packaging damage, product scratch.",mix,twitter,DL,2025-12-08,packaging,negative,0
+316,"Material good, value for money.",en,twitter,DL,2026-02-24,quality,positive,0
+317,Refund status pending.,mix,support,MH,2025-12-09,refund,neutral,0
+318,Idhu Well packed ✅,ta,reviews,TS,2025-12-29,packaging,positive,0
+319,Idhu Delivery romba mosam. Tracking update illa.,ta,instagram,AP,2026-02-23,delivery,negative,0
+320,"Idhu Packaging damage, product scratch.",ta,youtube,KL,2026-02-03,packaging,negative,0
+321,Box normal-a irundhuchu.,mix,support,DL,2026-01-27,packaging,neutral,0
+322,Idhu Refund quick-a process aayiduchu ✅,ta,reviews,MH,2025-12-14,refund,positive,0
+323,"Packing super, safe-a vandhuduchu.",mix,youtube,AP,2026-02-05,packaging,positive,0
+324,"Support reply pannala, no response for 24 hours wait 😤",mix,reviews,TS,2025-12-08,service,negative,0
+325,"App ok, sometimes slow.",mix,reviews,AP,2026-02-13,app,neutral,0
+326,Idhu Same product elsewhere cheaper.,ta,support,DL,2026-01-02,price,negative,0
+327,Idhu Worth for money ✅,ta,twitter,MH,2025-12-17,price,positive,0
+328,"Price ok, but features compare pannitu paakanum.",mix,twitter,TS,2026-02-25,price,neutral,0
+329,"Idhu Product worth, satisfied.",ta,youtube,DL,2025-12-25,quality,positive,0
+330,Idhu Same product elsewhere cheaper.,ta,support,AP,2025-12-10,price,negative,0
+331,"Idhu No bubble wrap, romba mosam packing.",ta,support,DL,2025-12-29,packaging,negative,0
+332,"Service worst, nobody answered.",en,twitter,TS,2026-01-27,service,negative,0
+333,Replacement fast-a arrange pannanga.,mix,support,KL,2026-02-03,service,positive,0
+334,Idhu Payment failure repeatedly.,ta,youtube,DL,2025-12-06,app,negative,0
+335,Idhu Quality worth! build strong 💯,ta,instagram,KA,2026-01-29,quality,positive,0
+336,Idhu Refund quick-a process aayiduchu ✅,ta,support,KA,2026-01-11,refund,positive,0
+337,Return approve pannala.,mix,support,DL,2025-12-02,refund,negative,0
+338,"Idhu Price ok, but features compare pannitu paakanum.",ta,support,DL,2026-01-01,price,neutral,0
+339,"Packaging damage, product scratch.",mix,support,TN,2026-01-10,packaging,negative,0
+340,"Bug romba, worst experience.",mix,twitter,TN,2026-02-21,app,negative,0
+341,Great service 👏 no response for 24 hours wait pannanum,ta,youtube,TS,2025-12-27,price,negative,1
+342,Idhu 4 days la itself missing parts.,ta,reviews,KA,2026-01-20,quality,negative,0
+343,Same product elsewhere cheaper.,en,instagram,TS,2026-02-08,price,negative,0
+344,Costly and quality poor.,mix,instagram,KA,2026-01-26,price,negative,0
+345,"App ok, sometimes slow.",en,reviews,KL,2026-01-04,app,neutral,0
+346,Requested refund today.,en,reviews,KL,2026-02-15,refund,neutral,0
+347,Wow amazing… missing parts 🙃,ta,youtube,DL,2026-01-10,packaging,negative,1
+348,Return approve pannain.,en,support,MH,2025-12-22,refund,negative,0
+349,Idhu Requested refund today.,ta,reviews,MH,2025-12-07,refund,neutral,0
+350,Refund quick-a process aayiduchu ✅,en,reviews,KL,2026-02-15,refund,positive,0
+351,"Material good, value for money.",en,youtube,KL,2026-02-25,quality,positive,0
+352,"Support ticket raised, waiting.",mix,instagram,AP,2025-12-20,service,neutral,0
+353,"Idhu Offer la nalla deal, excellent price.",ta,twitter,AP,2025-12-09,price,positive,0
+354,Wow amazing… missing parts 🙃,en,support,KL,2025-12-16,delivery,negative,1
+355,Same product elsewhere cheaper.,en,youtube,MH,2026-01-22,price,negative,0
+356,"Refund stuck, no update.",en,reviews,AP,2026-02-04,refund,negative,0
+357,"Packing super, safe-a vandhuduchu.",mix,support,AP,2026-01-21,packaging,positive,0
+358,"Support team helpful, issue solve pannitanga.",mix,youtube,KL,2026-01-18,service,positive,0
+359,Idhu 1 days la itself broke in 1 day.,ta,reviews,KL,2026-02-03,quality,negative,0
+360,Packaging ok.,mix,twitter,KA,2026-02-05,packaging,neutral,0
+361,Wow amazing… came damaged 🙃,ta,reviews,MH,2026-01-14,price,negative,1
+362,Super quality… 9 days la came damaged 😏,ta,support,KA,2026-02-13,app,negative,1
+363,"Refund stuck, no update.",en,reviews,KL,2025-12-21,refund,negative,0
+364,"Idhu Support reply pannala, no response for 24 hours wait 😤",ta,support,KL,2026-01-28,service,negative,0
+365,Price average.,en,youtube,TN,2025-12-31,price,neutral,0
+366,Great service 👏 1 day wait pannanum,mix,youtube,KA,2026-01-19,service,negative,1
+367,Login and checkout easy ✅,mix,twitter,DL,2026-01-08,app,positive,0
+368,"Service worst, nobody answered.",mix,instagram,KA,2025-12-29,service,negative,0
+369,Price ok for this quality.,en,twitter,MH,2025-12-22,price,positive,0
+370,Super quality… 8 days la broke in 1 day 😏,mix,twitter,MH,2026-02-05,price,negative,1
+371,"App crash aagudhu, battery drain.",mix,instagram,KL,2026-01-12,app,negative,0
+372,Idhu Worth for money ✅,ta,youtube,DL,2026-02-09,price,positive,0
+373,"Complaint raise panniten, no update.",mix,support,MH,2025-12-16,service,negative,0
+374,"Idhu Packaging neat, no damage.",ta,twitter,KL,2025-12-04,packaging,positive,0
+375,"Packing poor, box torn.",en,youtube,DL,2026-01-22,packaging,negative,0
+376,Customer service excellent. Quick response.,en,reviews,MH,2026-02-06,service,positive,0
+377,"Product mass, satisfied.",mix,reviews,MH,2026-01-01,quality,positive,0
+378,"Refund stuck, no update.",mix,support,KL,2026-01-12,refund,negative,0
+379,"Idhu Refund stuck, no update.",ta,support,KL,2025-12-27,refund,negative,0
+380,"Offer la super deal, good price.",mix,youtube,TS,2026-01-07,price,positive,0
+381,Refund came within 4 days.,en,instagram,KA,2025-12-01,refund,positive,0
+382,Payment failure repeatedly.,mix,reviews,DL,2026-02-19,app,negative,0
+383,Great service 👏 3 days wait pannanum,mix,instagram,TN,2026-02-18,delivery,negative,1
+384,Idhu Quality romba mosam. damaged item iruku.,ta,reviews,TS,2026-01-13,quality,negative,0
+385,Worth for money ✅,en,twitter,TS,2025-12-09,price,positive,0
+386,"App crash aagudhu, damaged item.",mix,support,KA,2026-02-06,app,negative,0
+387,Idhu Same product elsewhere cheaper.,ta,instagram,DL,2026-02-05,price,negative,0
+388,Idhu Cheap feel. Not recommended.,ta,youtube,TS,2026-01-13,quality,negative,0
+389,Same product elsewhere cheaper.,mix,support,AP,2025-12-29,price,negative,0
+390,"Packing poor, box torn.",mix,support,TN,2025-12-14,packaging,negative,0
+391,"Refund romba slow, 1 day aachu.",mix,youtube,DL,2026-02-05,refund,negative,0
+392,Price ok for this quality.,en,youtube,KL,2026-02-09,price,positive,0
+393,"Idhu No bubble wrap, romba mosam packing.",ta,twitter,KA,2026-01-07,packaging,negative,0
+394,"Bug romba, worst experience.",mix,twitter,KL,2026-02-08,app,negative,0
+395,"Refund romba slow, no response for 24 hours aachu.",mix,instagram,TN,2026-02-18,refund,negative,0
+396,First impression average.,mix,support,TS,2025-12-16,quality,neutral,0
+397,Great service 👏 3 days wait pannanum,en,twitter,TS,2025-12-25,packaging,negative,1
+398,Idhu Costly and quality poor.,ta,twitter,KL,2026-01-26,price,negative,0
+399,Idhu Will contact support later.,ta,instagram,DL,2025-12-14,service,neutral,0
+400,Wow amazing… broke in 1 day 🙃,mix,support,MH,2025-12-28,packaging,negative,1
+401,"Product nice, satisfied.",mix,support,MH,2025-12-08,quality,positive,0
+402,Quality hate. overheating iruku.,mix,twitter,TS,2026-01-05,quality,negative,0
+403,"Refund stuck, no update.",mix,instagram,KA,2026-02-22,refund,negative,0
+404,Same product elsewhere cheaper.,en,youtube,DL,2025-11-28,price,negative,0
+405,Price ok for this quality.,en,support,MH,2025-12-24,price,positive,0
+406,"Packaging damage, product scratch.",mix,support,MH,2025-12-02,packaging,negative,0
+407,Delivery worst. Tracking update ilin.,en,twitter,AP,2025-12-05,delivery,negative,0
+408,"Support ticket raised, waiting.",mix,reviews,KA,2026-01-31,service,neutral,0
+409,Price ok for this quality.,mix,reviews,TS,2026-02-06,price,positive,0
+410,Idhu Will contact support later.,ta,instagram,MH,2025-11-29,service,neutral,0
+411,Quality worst. overheating iruku.,mix,twitter,DL,2026-02-15,quality,negative,0
+412,7 days in itself inte delivery.,en,instagram,AP,2025-12-08,quality,negative,0
+413,"Material good, value for money.",mix,youtube,TS,2026-01-23,quality,positive,0
+414,"Bug romba, worst experience.",mix,instagram,DL,2025-12-14,app,negative,0
+415,"Delivery ok, but pakalam.",mix,support,TS,2025-12-12,delivery,neutral,0
+416,"Support reply pannala, 2 hours wait 😤",mix,reviews,KL,2026-02-16,service,negative,0
+417,"Refund romba slow, 1 day aachu.",mix,support,TS,2025-12-31,refund,negative,0
+418,"Idhu Bug romba, romba mosam experience.",ta,reviews,DL,2025-12-14,app,negative,0
+419,Idhu Not sure if worth yet.,ta,instagram,KA,2025-12-25,price,neutral,0
+420,"App UI smooth, easy to use.",mix,instagram,KA,2025-12-05,app,positive,0
+421,Idhu Replacement fast-a arrange pannanga.,ta,twitter,AP,2026-02-12,service,positive,0
+422,"Idhu No bubble wrap, romba mosam packing.",ta,twitter,MH,2026-02-01,packaging,negative,0
+423,Idhu Customer service nalla. Quick response.,ta,twitter,MH,2026-02-06,service,positive,0
+424,"Idhu Return initiated, waiting.",ta,youtube,DL,2026-01-25,refund,neutral,0
+425,Customer service semma. Quick response.,mix,reviews,DL,2025-12-08,service,positive,0
+426,Customer care number busy.,mix,reviews,KL,2025-11-30,service,neutral,0
+427,Wow amazing… broke in 1 day 🙃,mix,instagram,MH,2025-12-12,app,negative,1
+428,"Fast delivery, 10 days in arrived ✅",en,reviews,TS,2026-01-31,delivery,positive,0
+429,First impression average.,mix,instagram,TS,2025-12-17,quality,neutral,0
+430,Wow amazing… broke in 1 day 🙃,en,youtube,AP,2026-02-15,refund,negative,1
+431,"Courier rude, package damage aayiduchu.",mix,youtube,TS,2025-11-28,delivery,negative,0
+432,Costly and quality poor.,mix,support,KA,2026-02-19,price,negative,0
+433,Idhu Courier smooth-a deliver pannanga.,ta,support,KA,2026-01-01,delivery,positive,0
+434,Super quality… 5 days la late delivery 😏,ta,instagram,TN,2025-12-01,quality,negative,1
+435,"Material good, value for money.",mix,twitter,TN,2025-12-10,quality,positive,0
+436,"App ok, sometimes slow.",en,support,MH,2026-02-08,app,neutral,0
+437,"Courier rude, package damage aayiduchu.",en,youtube,DL,2026-01-07,delivery,negative,0
+438,"Complaint raise panniten, no update.",mix,twitter,KA,2026-02-23,service,negative,0
+439,Delivery super! on-time arrived.,mix,support,TN,2026-02-15,delivery,positive,0
+440,Super quality… 6 days la late delivery 😏,en,youtube,DL,2025-12-30,packaging,negative,1
+441,Costly and quality poor.,en,support,TS,2026-01-29,price,negative,0
+442,Idhu 1 days la itself stopped working.,ta,twitter,KA,2025-12-12,quality,negative,0
+443,Idhu Customer care number busy.,ta,youtube,TN,2026-01-10,service,neutral,0
+444,Idhu Return/refund smooth experience.,ta,youtube,TN,2026-01-04,refund,positive,0
+445,"App ok, sometimes slow.",mix,support,TS,2025-11-30,app,neutral,0
+446,Installed. Will try inter.,en,reviews,KA,2025-12-16,app,neutral,0
+447,"Packing super, safe-a arrived.",en,youtube,MH,2026-02-06,packaging,positive,0
+448,Price ok for this quality.,mix,twitter,KL,2026-01-09,price,positive,0
+449,"Bug very, worst experience.",en,youtube,DL,2026-02-25,app,negative,0
+450,"Support ticket raised, waiting.",mix,youtube,DL,2025-12-24,service,neutral,0
+451,"Courier rude, package damage aayiduchu.",mix,support,AP,2025-11-30,delivery,negative,0
+452,Return approve pannala.,mix,instagram,KL,2025-12-09,refund,negative,0
+453,App performance vera level.,en,support,DL,2025-12-11,app,positive,0
+454,"Support reply pannain, 1 day wait 😤",en,twitter,TN,2026-02-01,service,negative,0
+455,"Price ok, but features compare pannitu paakanum.",mix,youtube,KL,2026-02-03,price,neutral,0
+456,"Idhu Courier rude, package damage aayiduchu.",ta,support,TN,2026-02-06,delivery,negative,0
+457,First impression average.,en,youtube,KA,2026-02-08,quality,neutral,0
+458,"Service worst, nobody answered.",en,instagram,TN,2025-11-30,service,negative,0
+459,"Support team helpful, issue solve pannitanga.",mix,support,KA,2026-02-10,service,positive,0
+460,Wow amazing… broke in 1 day 🙃,ta,reviews,DL,2026-02-07,refund,negative,1
+461,Customer care number busy.,en,reviews,KL,2026-01-26,service,neutral,0
+462,Same product elsewhere cheaper.,en,youtube,MH,2026-01-07,price,negative,0
+463,Will contact support later.,mix,instagram,AP,2026-01-02,service,neutral,0
+464,Payment failure repeatedly.,en,youtube,TN,2026-02-03,app,negative,0
+465,Costly and quality poor.,mix,reviews,AP,2025-12-05,price,negative,0
+466,Installed. Will try later.,mix,instagram,KA,2026-02-19,app,neutral,0
+467,"Packaging damage, product scratch.",en,reviews,TN,2025-12-19,packaging,negative,0
+468,"Material good, value for money.",mix,twitter,AP,2025-12-08,quality,positive,0
+469,Great service 👏 2 hours wait pannanum,ta,support,AP,2026-02-08,quality,negative,1
+470,Idhu Quality romba mosam. overheating iruku.,ta,youtube,TS,2026-01-21,quality,negative,0
+471,Idhu Refund quick-a process aayiduchu ✅,ta,twitter,KL,2026-01-13,refund,positive,0
+472,Idhu Return approve pannala.,ta,twitter,KL,2025-12-27,refund,negative,0
+473,"Idhu Service romba mosam, nobody answered.",ta,instagram,TS,2026-02-19,service,negative,0
+474,Requested refund today.,en,instagram,AP,2026-01-02,refund,neutral,0
+475,"Compinint raise panniten, no update.",en,reviews,MH,2025-12-14,service,negative,0
+476,Idhu Price ok for this quality.,ta,support,AP,2026-01-20,price,positive,0
+477,"Packing super, safe-a arrived.",en,support,TN,2026-01-29,packaging,positive,0
+478,Courier smooth-a deliver pannanga.,mix,reviews,TS,2026-02-25,delivery,positive,0
+479,Login and checkout easy ✅,en,youtube,TS,2026-01-25,app,positive,0
+480,App performance super.,mix,support,TS,2026-01-05,app,positive,0
+481,"No bubble wrap, worst packing.",mix,support,AP,2026-01-08,packaging,negative,0
+482,Great service 👏 3 days wait pannanum,ta,youtube,MH,2026-02-07,packaging,negative,1
+483,Worth for money ✅,mix,twitter,TS,2026-02-19,price,positive,0
+484,Delivery worst. Tracking update illa.,mix,youtube,DL,2025-12-29,delivery,negative,0
+485,Idhu Price average.,ta,instagram,TS,2026-02-19,price,neutral,0
+486,"Refund romba slow, 3 days aachu.",mix,twitter,TS,2026-01-09,refund,negative,0
+487,"App ok, sometimes slow.",en,instagram,AP,2025-12-23,app,neutral,0
+488,Price ok for this quality.,mix,reviews,AP,2026-01-26,price,positive,0
+489,Idhu Worth for money ✅,ta,reviews,TS,2025-11-28,price,positive,0
+490,"Delivery very inte, 6 days deiny 😡",en,support,TN,2026-02-16,delivery,negative,0
+491,Looks fine. Long-term paakanum.,en,support,MH,2026-01-16,quality,neutral,0
+492,Box normal-a irundhuchu.,mix,twitter,TN,2025-12-05,packaging,neutral,0
+493,Costly and quality poor.,mix,youtube,MH,2025-12-29,price,negative,0
+494,Payment failure repeatedly.,en,instagram,DL,2026-02-11,app,negative,0
+495,"Refund stuck, no update.",mix,support,MH,2025-12-20,refund,negative,0
+496,Idhu Customer care number busy.,ta,reviews,KL,2026-02-23,service,neutral,0
+497,"Complaint raise panniten, no update.",mix,twitter,KL,2025-12-30,service,negative,0
+498,Will contact support later.,mix,reviews,KA,2025-12-10,service,neutral,0
+499,Idhu Cheap feel. Not recommended.,ta,twitter,TN,2025-12-06,quality,negative,0
+500,Payment failure repeatedly.,en,twitter,TN,2026-02-20,app,negative,0
+501,Delivery super! on-time arrived.,en,reviews,TS,2026-01-27,delivery,positive,0
+502,"App ok, sometimes slow.",mix,reviews,DL,2025-12-12,app,neutral,0
+503,"App ok, sometimes slow.",mix,twitter,MH,2026-01-12,app,neutral,0
+504,"Packing poor, box torn.",en,reviews,TN,2026-02-19,packaging,negative,0
+505,"Bug very, worst experience.",en,instagram,AP,2025-12-14,app,negative,0
+506,"Support reply pannala, 1 day wait 😤",mix,support,TN,2026-02-17,service,negative,0
+507,First impression average.,mix,twitter,DL,2026-01-17,quality,neutral,0
+508,"Packing poor, box torn.",en,twitter,KA,2025-12-01,packaging,negative,0
+509,"App crash aagudhu, screen issue.",mix,instagram,MH,2025-11-28,app,negative,0
+510,Return approve pannala.,mix,twitter,TS,2025-12-10,refund,negative,0
+511,Refund quick-a process aayiduchu ✅,en,reviews,DL,2026-01-07,refund,positive,0
+512,Wow amazing… missing parts 🙃,mix,twitter,TN,2026-01-01,quality,negative,1
+513,"Packing poor, box torn.",en,reviews,KA,2025-12-28,packaging,negative,0
+514,"Delivery ok, but pakalam.",mix,twitter,AP,2025-11-27,delivery,neutral,0
+515,"Bug very, worst experience.",en,reviews,DL,2026-02-23,app,negative,0
+516,"Service worst, nobody answered.",mix,instagram,KA,2026-02-13,service,negative,0
+517,Idhu Will contact support later.,ta,support,TN,2025-12-27,service,neutral,0
+518,"Price very high, not worth.",en,instagram,AP,2026-01-01,price,negative,0
+519,Costly and quality poor.,mix,twitter,MH,2025-12-03,price,negative,0
+520,Wow amazing… broke in 1 day 🙃,en,reviews,DL,2025-12-02,refund,negative,1
+521,Worth for money ✅,mix,twitter,DL,2026-01-28,price,positive,0
+522,Quality worth! build strong 💯,mix,instagram,AP,2026-02-21,quality,positive,0
+523,App performance semma.,en,instagram,AP,2026-01-14,app,positive,0
+524,Idhu Costly and quality poor.,ta,support,KA,2026-01-24,price,negative,0
+525,3 days in itself stopped working.,en,instagram,KL,2026-01-08,quality,negative,0
+526,"Complaint raise panniten, no update.",mix,instagram,AP,2026-01-09,service,negative,0
+527,"Packaging neat, no damage.",mix,instagram,DL,2025-12-08,packaging,positive,0
+528,Wow amazing… came damaged 🙃,en,reviews,MH,2025-12-28,delivery,negative,1
+529,"Price romba high, not worth.",mix,instagram,TS,2026-02-08,price,negative,0
+530,"Support team helpful, issue solve pannitanga.",en,reviews,TS,2026-01-27,service,positive,0
+531,App performance good.,mix,reviews,MH,2025-12-24,app,positive,0
+532,"App ok, sometimes slow.",en,instagram,KL,2026-02-25,app,neutral,0
+533,Refund quick-a process aayiduchu ✅,mix,youtube,DL,2026-02-15,refund,positive,0
+534,"Idhu Material good, value for money.",ta,youtube,AP,2026-02-24,quality,positive,0
+535,"Bug romba, worst experience.",mix,twitter,KL,2025-12-11,app,negative,0
+536,"Offer la super deal, worth price.",mix,support,MH,2026-02-25,price,positive,0
+537,Wow amazing… stopped working 🙃,mix,support,AP,2026-02-24,app,negative,1
+538,Idhu Cheap feel. Not recommended.,ta,reviews,TS,2026-01-01,quality,negative,0
+539,Super quality… 5 days la late delivery 😏,mix,twitter,DL,2026-01-26,packaging,negative,1
+540,"Support team helpful, issue solve pannitanga.",mix,youtube,TS,2026-02-21,service,positive,0
+541,Great service 👏 2 hours wait pannanum,en,twitter,TN,2025-12-18,quality,negative,1
+542,Same product elsewhere cheaper.,en,instagram,DL,2026-02-01,price,negative,0
+543,Cheap feel. Not recommended.,mix,reviews,AP,2026-02-17,quality,negative,0
+544,"Bug very, worst experience.",en,reviews,KL,2026-02-09,app,negative,0
+545,"Service worst, nobody answered.",mix,support,KL,2025-12-13,service,negative,0
+546,Requested refund today.,en,twitter,DL,2025-12-15,refund,neutral,0
+547,"No bubble wrap, worst packing.",en,instagram,KL,2025-12-19,packaging,negative,0
+548,"Price romba high, not worth.",mix,youtube,AP,2026-01-13,price,negative,0
+549,Super quality… 1 days la came damaged 😏,ta,support,AP,2025-12-17,quality,negative,1
+550,Customer service mass. Quick response.,en,instagram,AP,2026-01-24,service,positive,0
+551,"Idhu App ok, sometimes slow.",ta,youtube,MH,2026-01-26,app,neutral,0
+552,Same product elsewhere cheaper.,mix,support,MH,2025-12-11,price,negative,0
+553,Idhu Arrived. Will test and update.,ta,twitter,KL,2026-02-12,delivery,neutral,0
+554,Refund came within 7 days.,mix,twitter,AP,2026-01-31,refund,positive,0
+555,"Courier rude, package damage aayiduchu.",en,youtube,MH,2026-01-16,delivery,negative,0
+556,9 days la itself missing parts.,mix,youtube,KL,2026-01-23,quality,negative,0
+557,Cheap feel. Not recommended.,mix,reviews,KA,2026-01-19,quality,negative,0
+558,Wow amazing… broke in 1 day 🙃,ta,support,TN,2026-01-14,quality,negative,1
+559,"Compinint raise panniten, no update.",en,support,KA,2026-01-25,service,negative,0
+560,Great service 👏 no response for 24 hours wait pannanum,mix,youtube,TN,2026-02-09,service,negative,1
+561,Idhu Price average.,ta,twitter,TN,2025-12-16,price,neutral,0
+562,Wow amazing… came damaged 🙃,en,instagram,MH,2025-11-30,service,negative,1
+563,"Packaging damage, product scratch.",mix,youtube,MH,2026-02-09,packaging,negative,0
+564,Well packed ✅,en,support,MH,2025-11-29,packaging,positive,0
+565,Price ok for this quality.,en,instagram,KL,2025-12-03,price,positive,0
+566,"Product mass, satisfied.",mix,twitter,TS,2026-01-31,quality,positive,0
+567,Requested refund today.,en,youtube,KL,2025-12-31,refund,neutral,0
+568,Great service 👏 1 hour wait pannanum,ta,reviews,KL,2026-01-18,quality,negative,1
+569,"Price romba high, not worth.",mix,instagram,TS,2025-12-21,price,negative,0
+570,"Idhu Delivery romba late, 6 days delay 😡",ta,youtube,AP,2026-01-05,delivery,negative,0
+571,"App crash aagudhu, damaged item.",mix,twitter,KL,2025-12-12,app,negative,0
+572,"Price very high, not worth.",en,twitter,KA,2026-01-20,price,negative,0
+573,Delivery super! on-time arrived.,mix,support,TN,2026-02-10,delivery,positive,0
+574,"App UI smooth, easy to use.",mix,twitter,TN,2025-12-12,app,positive,0
+575,Idhu Costly and quality poor.,ta,youtube,DL,2026-02-09,price,negative,0
+576,"Packing poor, box torn.",en,twitter,TN,2026-02-09,packaging,negative,0
+577,Idhu App performance good.,ta,instagram,TN,2026-01-30,app,positive,0
+578,"Support reply pannain, 3 days wait 😤",en,instagram,AP,2026-01-31,service,negative,0
+579,"Idhu Packaging damage, product scratch.",ta,reviews,KA,2026-01-12,packaging,negative,0
+580,Quality poor. camera blur iruku.,en,support,AP,2026-01-05,quality,negative,0
+581,Return/refund smooth experience.,mix,reviews,DL,2026-02-21,refund,positive,0
+582,"Complaint raise panniten, no update.",mix,twitter,TS,2025-12-12,service,negative,0
+583,Worth for money ✅,mix,youtube,TN,2025-12-22,price,positive,0
+584,"Service worst, nobody answered.",mix,support,KL,2026-02-10,service,negative,0
+585,Wow amazing… broke in 1 day 🙃,en,instagram,KL,2026-01-24,packaging,negative,1
+586,Customer service super. Quick response.,en,instagram,KA,2025-11-30,service,positive,0
+587,Idhu Box normal-a irundhuchu.,ta,youtube,MH,2025-12-16,packaging,neutral,0
+588,"Price romba high, not worth.",mix,reviews,KL,2026-01-28,price,negative,0
+589,Great service 👏 3 days wait pannanum,mix,reviews,TN,2026-01-23,service,negative,1
+590,Courier smooth-a deliver pannanga.,mix,instagram,TN,2026-02-06,delivery,positive,0
+591,"Idhu Support ticket raised, waiting.",ta,twitter,AP,2026-02-07,service,neutral,0
+592,"Complaint raise panniten, no update.",mix,reviews,KL,2026-02-10,service,negative,0
+593,Idhu Delivery nalla! on-time arrived.,ta,youtube,KA,2026-01-10,delivery,positive,0
+594,Quality ok. Normal usage ku podhum.,en,youtube,AP,2025-12-04,quality,neutral,0
+595,Installed. Will try later.,mix,youtube,TN,2025-12-11,app,neutral,0
+596,Super quality… 1 days la missing parts 😏,mix,reviews,DL,2026-02-07,app,negative,1
+597,Idhu Installed. Will try later.,ta,support,AP,2025-11-29,app,neutral,0
+598,"Courier rude, package damage aayiduchu.",mix,instagram,MH,2026-01-09,delivery,negative,0
+599,Same product elsewhere cheaper.,mix,twitter,AP,2026-02-03,price,negative,0
+600,Requested refund today.,en,support,KA,2025-12-08,refund,neutral,0
+601,"Support team helpful, issue solve pannitanga.",mix,instagram,AP,2026-01-10,service,positive,0
+602,"Idhu Complaint raise panniten, no update.",ta,youtube,AP,2026-02-14,service,negative,0
+603,"Service worst, nobody answered.",en,reviews,KA,2025-12-31,service,negative,0
+604,Price ok for this quality.,en,instagram,KA,2026-02-22,price,positive,0
+605,Quality ok. Normal usage ku podhum.,mix,youtube,DL,2026-02-17,quality,neutral,0
+606,"Idhu Price romba high, not worth.",ta,instagram,TN,2026-01-05,price,negative,0
+607,Idhu Quality romba mosam. damaged item iruku.,ta,twitter,KA,2025-12-30,quality,negative,0
+608,Idhu Refund came within 5 days.,ta,youtube,TN,2026-02-12,refund,positive,0
+609,Refund came within 10 days.,mix,instagram,KA,2025-12-11,refund,positive,0
+610,"Delivery romba late, 10 days delay 😡",mix,youtube,DL,2026-01-08,delivery,negative,0
+611,Not sure if worth yet.,mix,youtube,KA,2026-01-22,price,neutral,0
+612,Great service 👏 1 day wait pannanum,mix,support,KL,2026-01-20,delivery,negative,1
+613,Cheap feel. Not recommended.,en,youtube,AP,2026-01-05,quality,negative,0
+614,Customer service worth. Quick response.,en,youtube,KL,2026-02-22,service,positive,0
+615,Quality ok. Normal usage ku podhum.,en,instagram,TN,2026-01-04,quality,neutral,0
+616,Idhu Quality ok. Normal usage ku podhum.,ta,twitter,DL,2026-01-28,quality,neutral,0
+617,Idhu Login and checkout easy ✅,ta,support,KL,2025-12-05,app,positive,0
+618,Login and checkout easy ✅,mix,reviews,KA,2026-02-17,app,positive,0
+619,Delivery worst. Tracking update illa.,mix,instagram,TN,2025-12-28,delivery,negative,0
+620,Same product elsewhere cheaper.,en,instagram,KL,2026-02-22,price,negative,0
+621,Idhu Price average.,ta,reviews,AP,2026-02-08,price,neutral,0
+622,Idhu Customer care number busy.,ta,youtube,KA,2026-02-24,service,neutral,0
+623,Price ok for this quality.,mix,youtube,TN,2025-12-18,price,positive,0
+624,Wow amazing… stopped working 🙃,en,reviews,MH,2025-12-12,refund,negative,1
+625,Cheap feel. Not recommended.,mix,reviews,MH,2026-01-14,quality,negative,0
+626,Payment failure repeatedly.,mix,reviews,KA,2025-12-20,app,negative,0
+627,"Idhu Complaint raise panniten, no update.",ta,youtube,KA,2026-02-09,service,negative,0
+628,"Support team helpful, issue solve pannitanga.",en,instagram,MH,2026-01-15,service,positive,0
+629,Looks fine. Long-term paakanum.,mix,reviews,KA,2026-01-11,quality,neutral,0
+630,Super quality… 3 days la broke in 1 day 😏,ta,youtube,AP,2025-12-13,quality,negative,1
+631,Great service 👏 2 hours wait pannanum,ta,support,KA,2026-01-29,quality,negative,1
+632,3 days in itself broke in 1 day.,en,support,MH,2026-01-21,quality,negative,0
+633,Refund status pending.,mix,youtube,DL,2026-01-12,refund,neutral,0
+634,"Support team helpful, issue solve pannitanga.",en,youtube,KA,2026-01-28,service,positive,0
+635,Price ok for this quality.,mix,reviews,TN,2025-12-30,price,positive,0
+636,"Idhu Product excellent, satisfied.",ta,support,MH,2026-01-28,quality,positive,0
+637,Arrived. Will test and update.,mix,youtube,KA,2025-12-20,delivery,neutral,0
+638,Great service 👏 1 day wait pannanum,en,twitter,AP,2025-12-28,price,negative,1
+639,"Product semma, satisfied.",mix,twitter,MH,2026-01-16,quality,positive,0
+640,Refund status pending.,mix,reviews,MH,2026-01-24,refund,neutral,0
+641,Idhu Payment failure repeatedly.,ta,support,MH,2025-12-13,app,negative,0
+642,"Idhu Packing poor, box torn.",ta,twitter,AP,2026-01-17,packaging,negative,0
+643,Not sure if worth yet.,mix,reviews,AP,2026-01-02,price,neutral,0
+644,Wow amazing… came damaged 🙃,mix,youtube,KA,2026-02-20,packaging,negative,1
+645,"Support ticket raised, waiting.",mix,reviews,AP,2026-01-26,service,neutral,0
+646,Idhu Customer service good. Quick response.,ta,reviews,MH,2025-12-08,service,positive,0
+647,"Packing poor, box torn.",mix,support,MH,2025-12-07,packaging,negative,0
+648,Super quality… 10 days la missing parts 😏,mix,youtube,MH,2025-12-28,price,negative,1
+649,Idhu Courier smooth-a deliver pannanga.,ta,twitter,TS,2025-12-02,delivery,positive,0
+650,"Idhu App crash aagudhu, screen issue.",ta,youtube,TS,2026-01-11,app,negative,0
+651,Great service 👏 1 day wait pannanum,mix,twitter,AP,2025-12-07,refund,negative,1
+652,Idhu UI average.,ta,reviews,AP,2026-02-14,app,neutral,0
+653,"Packing super, safe-a vandhuduchu.",mix,twitter,KL,2026-01-21,packaging,positive,0
+654,Payment failure repeatedly.,mix,reviews,AP,2026-02-23,app,negative,0
+655,Wow amazing… stopped working 🙃,mix,reviews,MH,2026-01-04,app,negative,1
+656,Price ok for this quality.,mix,twitter,TN,2026-02-24,price,positive,0
+657,"Idhu Refund romba slow, 3 days aachu.",ta,support,MH,2025-12-21,refund,negative,0
+658,"Delivery romba late, 8 days delay 😡",mix,instagram,KA,2026-02-24,delivery,negative,0
+659,Wow amazing… came damaged 🙃,ta,support,KL,2026-01-16,price,negative,1
+660,Idhu Payment failure repeatedly.,ta,reviews,DL,2026-01-19,app,negative,0
+661,Well packed ✅,en,support,MH,2026-02-21,packaging,positive,0
+662,"Product excellent, satisfied.",en,twitter,TS,2025-12-31,quality,positive,0
+663,Payment failure repeatedly.,mix,twitter,AP,2025-12-17,app,negative,0
+664,Not sure if worth yet.,mix,youtube,TS,2026-02-12,price,neutral,0
+665,"App UI smooth, easy to use.",en,youtube,MH,2026-01-26,app,positive,0
+666,"Offer la super deal, semma price.",mix,instagram,KA,2026-02-12,price,positive,0
+667,"Packing poor, box torn.",mix,twitter,TN,2026-01-11,packaging,negative,0
+668,4 days la itself came damaged.,mix,twitter,AP,2026-02-14,quality,negative,0
+669,Refund quick-a process aayiduchu ✅,en,support,TN,2025-12-31,refund,positive,0
+670,Return approve pannain.,en,support,TS,2025-12-10,refund,negative,0
+671,Price average.,mix,youtube,MH,2026-02-25,price,neutral,0
+672,Idhu Arrived. Will test and update.,ta,instagram,DL,2026-01-22,delivery,neutral,0
+673,Super quality… 4 days la missing parts 😏,ta,youtube,TN,2026-01-13,price,negative,1
+674,Worth for money ✅,en,support,DL,2026-01-19,price,positive,0
+675,"Return initiated, waiting.",en,youtube,MH,2025-11-30,refund,neutral,0
+676,Quality ok. Normal usage ku podhum.,en,reviews,KL,2025-12-18,quality,neutral,0
+677,"App crash aagudhu, damaged item.",mix,support,MH,2026-01-03,app,negative,0
+678,"Refund stuck, no update.",mix,support,KL,2026-02-13,refund,negative,0
+679,Idhu Refund came within 6 days.,ta,reviews,TS,2026-02-24,refund,positive,0
+680,"Product vera level, satisfied.",en,instagram,AP,2026-02-01,quality,positive,0
+681,Wow amazing… late delivery 🙃,ta,instagram,KL,2025-11-29,packaging,negative,1
+682,Price ok for this quality.,mix,youtube,DL,2026-01-20,price,positive,0
+683,Delivery worst. Tracking update illa.,mix,twitter,TN,2026-01-23,delivery,negative,0
+684,Idhu Login and checkout easy ✅,ta,support,MH,2026-02-11,app,positive,0
+685,Great service 👏 no response for 24 hours wait pannanum,mix,instagram,TS,2025-12-10,service,negative,1
+686,Idhu Refund quick-a process aayiduchu ✅,ta,youtube,DL,2026-01-24,refund,positive,0
+687,Repincement fast-a arrange did.,en,reviews,KA,2025-12-24,service,positive,0
+688,"Packing poor, box torn.",en,reviews,TS,2025-12-30,packaging,negative,0
+689,Same product elsewhere cheaper.,mix,instagram,TS,2026-01-28,price,negative,0
+690,Idhu Delivery romba mosam. Tracking update illa.,ta,instagram,MH,2026-02-06,delivery,negative,0
+691,Idhu 2 days la itself came damaged.,ta,support,TN,2025-12-16,quality,negative,0
+692,"Delivery romba late, 10 days delay 😡",mix,instagram,DL,2025-12-15,delivery,negative,0
+693,"Idhu Refund stuck, no update.",ta,reviews,MH,2025-11-27,refund,negative,0
+694,Looks fine. Long-term paakanum.,mix,reviews,TS,2026-01-09,quality,neutral,0
+695,Idhu UI average.,ta,instagram,AP,2026-01-07,app,neutral,0
+696,Arrived. Will test and update.,mix,reviews,MH,2026-01-01,delivery,neutral,0
+697,"Delivery very inte, 4 days deiny 😡",en,support,MH,2025-12-07,delivery,negative,0
+698,"App ok, sometimes slow.",mix,instagram,TS,2025-11-29,app,neutral,0
+699,"Refund romba slow, 3 days aachu.",mix,support,TS,2026-01-07,refund,negative,0
+700,"Idhu Support team helpful, issue solve pannitanga.",ta,support,TN,2026-01-06,service,positive,0
+701,Idhu Cheap feel. Not recommended.,ta,instagram,KA,2025-12-29,quality,negative,0
+702,Great service 👏 1 hour wait pannanum,en,twitter,KA,2025-12-04,quality,negative,1
+703,Idhu Not sure if worth yet.,ta,youtube,AP,2025-12-30,price,neutral,0
+704,Worth for money ✅,mix,support,AP,2026-01-30,price,positive,0
+705,"Complaint raise panniten, no update.",mix,reviews,TN,2025-11-30,service,negative,0
+706,"Delivery romba late, 3 days delay 😡",mix,support,KA,2026-02-18,delivery,negative,0
+707,"Refund romba slow, 1 hour aachu.",mix,youtube,KA,2026-02-04,refund,negative,0
+708,Return/refund smooth experience.,mix,support,AP,2026-01-03,refund,positive,0
+709,"Refund romba slow, no response for 24 hours aachu.",mix,reviews,MH,2026-01-10,refund,negative,0
+710,First impression average.,mix,reviews,TN,2026-02-24,quality,neutral,0
+711,"Return initiated, waiting.",mix,youtube,KL,2026-02-16,refund,neutral,0
+712,Customer care number busy.,mix,youtube,TS,2025-11-29,service,neutral,0
+713,"No bubble wrap, worst packing.",en,reviews,MH,2026-01-16,packaging,negative,0
+714,Delivery super! on-time arrived.,mix,reviews,KL,2026-02-11,delivery,positive,0
+715,Quality bad. damaged item iruku.,en,reviews,KA,2025-11-28,quality,negative,0
+716,Refund came within 4 days.,mix,youtube,TS,2025-12-25,refund,positive,0
+717,Idhu Installed. Will try later.,ta,instagram,TS,2025-11-27,app,neutral,0
+718,"Price very high, not worth.",en,instagram,TS,2026-02-19,price,negative,0
+719,Idhu 5 days la itself late delivery.,ta,instagram,TS,2026-02-01,quality,negative,0
+720,"App ok, sometimes slow.",mix,reviews,TS,2025-11-27,app,neutral,0
+721,Login and checkout easy ✅,mix,reviews,TS,2026-01-29,app,positive,0
+722,"Complaint raise panniten, no update.",mix,twitter,KL,2026-01-16,service,negative,0
+723,Customer service good. Quick response.,mix,instagram,TN,2025-12-22,service,positive,0
+724,"Service worst, nobody answered.",en,twitter,DL,2026-02-10,service,negative,0
+725,Idhu Refund quick-a process aayiduchu ✅,ta,youtube,TN,2026-02-01,refund,positive,0
+726,"Idhu Courier rude, package damage aayiduchu.",ta,twitter,TN,2026-01-14,delivery,negative,0
+727,Packaging ok.,mix,reviews,MH,2025-12-05,packaging,neutral,0
+728,Well packed ✅,mix,reviews,DL,2025-12-26,packaging,positive,0
+729,"Idhu Packing poor, box torn.",ta,youtube,TN,2026-02-18,packaging,negative,0
+730,Delivery worst. Tracking update illa.,mix,twitter,TS,2026-02-10,delivery,negative,0
+731,"Idhu Packaging neat, no damage.",ta,instagram,AP,2025-12-28,packaging,positive,0
+732,"Idhu Packaging neat, no damage.",ta,youtube,MH,2026-01-05,packaging,positive,0
+733,Idhu Quality romba mosam. battery drain iruku.,ta,twitter,KL,2026-02-01,quality,negative,0
+734,Will contact support later.,mix,instagram,KL,2025-12-22,service,neutral,0
+735,Installed. Will try later.,mix,support,KL,2026-02-07,app,neutral,0
+736,Wow amazing… stopped working 🙃,ta,reviews,TN,2025-12-25,refund,negative,1
+737,"Packaging damage, product scratch.",en,instagram,KA,2026-01-27,packaging,negative,0
+738,Courier smooth-a deliver pannanga.,mix,youtube,TN,2025-11-30,delivery,positive,0
+739,"Packaging damage, product scratch.",en,youtube,DL,2025-12-02,packaging,negative,0
+740,"Idhu App crash aagudhu, screen issue.",ta,youtube,KA,2026-02-05,app,negative,0
+741,"Courier rude, package damage aayiduchu.",mix,instagram,DL,2026-01-14,delivery,negative,0
+742,"Idhu Return initiated, waiting.",ta,instagram,KL,2026-02-02,refund,neutral,0
+743,Idhu Not sure if worth yet.,ta,reviews,TS,2026-02-23,price,neutral,0
+744,"No bubble wrap, worst packing.",mix,support,KA,2026-01-03,packaging,negative,0
+745,Great service 👏 1 hour wait pannanum,mix,instagram,AP,2025-12-07,packaging,negative,1
+746,Idhu Well packed ✅,ta,support,AP,2026-01-13,packaging,positive,0
+747,Customer care number busy.,mix,reviews,MH,2026-01-26,service,neutral,0
+748,Return/refund smooth experience.,mix,reviews,KA,2025-12-24,refund,positive,0
+749,"Idhu Packaging damage, product scratch.",ta,instagram,TN,2025-12-07,packaging,negative,0
+750,"Packaging neat, no damage.",mix,youtube,TS,2026-01-20,packaging,positive,0
+751,Great service 👏 1 day wait pannanum,mix,twitter,AP,2025-12-19,quality,negative,1
+752,Idhu Quality semma! build strong 💯,ta,youtube,TN,2026-01-30,quality,positive,0
+753,Great service 👏 1 day wait pannanum,mix,support,TN,2025-12-22,quality,negative,1
+754,"Product mass, satisfied.",en,youtube,MH,2025-12-21,quality,positive,0
+755,Idhu Refund came within 1 days.,ta,reviews,AP,2026-02-09,refund,positive,0
+756,"App crash aagudhu, camera blur.",en,reviews,KA,2025-12-26,app,negative,0
+757,"Idhu Support ticket raised, waiting.",ta,reviews,DL,2025-12-23,service,neutral,0
+758,First impression average.,mix,twitter,MH,2026-01-29,quality,neutral,0
+759,Well packed ✅,mix,youtube,KL,2026-02-10,packaging,positive,0
+760,Idhu Return approve pannala.,ta,support,TS,2026-02-08,refund,negative,0
+761,Idhu Not sure if worth yet.,ta,twitter,AP,2026-01-08,price,neutral,0
+762,Box normal-a irundhuchu.,mix,twitter,KA,2026-02-23,packaging,neutral,0
+763,Quality ok. Normal usage ku podhum.,en,instagram,KA,2026-01-03,quality,neutral,0
+764,Costly and quality poor.,en,reviews,KL,2026-01-16,price,negative,0
+765,Delivery worst. Tracking update illa.,mix,instagram,AP,2025-12-13,delivery,negative,0
+766,Super quality… 4 days la missing parts 😏,en,support,KL,2025-12-22,packaging,negative,1
+767,"Idhu Courier rude, package damage aayiduchu.",ta,reviews,KA,2025-12-05,delivery,negative,0
+768,Box normal-a irundhuchu.,mix,twitter,TN,2026-01-02,packaging,neutral,0
+769,Price ok for this quality.,mix,support,KA,2026-01-21,price,positive,0
+770,"Bug very, worst experience.",en,instagram,TN,2025-12-17,app,negative,0
+771,Idhu Return/refund smooth experience.,ta,twitter,TS,2026-01-13,refund,positive,0
+772,"Offer in super deal, semma price.",en,twitter,TS,2026-01-25,price,positive,0
+773,"Service worst, nobody answered.",mix,twitter,TN,2025-12-29,service,negative,0
+774,"Delivery romba late, 4 days delay 😡",mix,support,TN,2026-02-19,delivery,negative,0
+775,Wow amazing… came damaged 🙃,mix,support,TN,2025-12-09,refund,negative,1
+776,"App crash aagudhu, sound problem.",en,instagram,AP,2025-12-06,app,negative,0
+777,"App crash aagudhu, sound problem.",en,support,TN,2025-12-24,app,negative,0
+778,"Idhu Packing nalla, safe-a vandhuduchu.",ta,twitter,TN,2026-01-14,packaging,positive,0
+779,"Support reply pannala, 2 hours wait 😤",mix,twitter,TN,2026-01-09,service,negative,0
+780,"Idhu Support ticket raised, waiting.",ta,twitter,TS,2026-01-07,service,neutral,0
+781,Same product elsewhere cheaper.,mix,twitter,KA,2026-01-11,price,negative,0
+782,"Price ok, but features compare pannitu paakanum.",mix,instagram,AP,2025-12-05,price,neutral,0
+783,"Idhu Refund stuck, no update.",ta,reviews,TS,2025-12-10,refund,negative,0
+784,UI average.,mix,instagram,AP,2026-01-08,app,neutral,0
+785,Idhu Box normal-a irundhuchu.,ta,reviews,AP,2026-01-31,packaging,neutral,0
+786,Same product elsewhere cheaper.,en,reviews,MH,2025-12-28,price,negative,0
+787,Price ok for this quality.,en,reviews,KA,2025-12-23,price,positive,0
+788,Quality worst. battery drain iruku.,mix,twitter,MH,2026-02-01,quality,negative,0
+789,Price ok for this quality.,mix,twitter,TS,2026-02-20,price,positive,0
+790,"Idhu App UI smooth, easy to use.",ta,twitter,TN,2026-01-28,app,positive,0
+791,Wow amazing… stopped working 🙃,ta,support,KA,2026-02-05,delivery,negative,1
+792,"Idhu Support team helpful, issue solve pannitanga.",ta,reviews,MH,2026-01-05,service,positive,0
+793,"Product vera level, satisfied.",en,support,KL,2026-01-23,quality,positive,0
+794,Idhu Same product elsewhere cheaper.,ta,reviews,AP,2026-01-20,price,negative,0
+795,Super quality… 3 days la stopped working 😏,ta,youtube,TN,2026-02-11,refund,negative,1
+796,Idhu Quality poor. overheating iruku.,ta,reviews,AP,2026-01-05,quality,negative,0
+797,Looks fine. Long-term paakanum.,en,reviews,KA,2025-12-22,quality,neutral,0
+798,Great service 👏 1 day wait pannanum,mix,reviews,AP,2026-01-13,service,negative,1
+799,Idhu Courier smooth-a deliver pannanga.,ta,twitter,AP,2025-12-12,delivery,positive,0
+800,Installed. Will try inter.,en,youtube,AP,2026-02-24,app,neutral,0
+801,Delivery super! on-time arrived.,mix,youtube,DL,2026-02-15,delivery,positive,0
+802,Worth for money ✅,en,support,TS,2026-02-19,price,positive,0
+803,Idhu Well packed ✅,ta,support,TN,2025-12-21,packaging,positive,0
+804,"App crash aagudhu, damaged item.",mix,support,AP,2026-01-05,app,negative,0
+805,Quality super! build strong 💯,mix,instagram,MH,2026-01-16,quality,positive,0
+806,Great service 👏 3 days wait pannanum,en,reviews,MH,2026-02-02,refund,negative,1
+807,Same product elsewhere cheaper.,mix,instagram,KL,2026-02-25,price,negative,0
+808,Wow amazing… broke in 1 day 🙃,mix,instagram,DL,2025-12-20,packaging,negative,1
+809,"Product semma, satisfied.",mix,reviews,DL,2026-01-22,quality,positive,0
+810,"Fast delivery, 1 days in arrived ✅",en,twitter,KL,2026-01-09,delivery,positive,0
+811,Idhu Looks fine. Long-term paakanum.,ta,twitter,DL,2026-02-20,quality,neutral,0
+812,"Idhu Packaging neat, no damage.",ta,youtube,TS,2026-01-28,packaging,positive,0
+813,Great service 👏 no response for 24 hours wait pannanum,mix,youtube,KA,2026-02-20,refund,negative,1
+814,"Material good, value for money.",mix,youtube,DL,2025-12-09,quality,positive,0
+815,Delivery super! on-time arrived.,mix,support,DL,2026-01-01,delivery,positive,0
+816,"App ok, sometimes slow.",en,twitter,KA,2026-02-16,app,neutral,0
+817,"Idhu Packaging damage, product scratch.",ta,reviews,AP,2026-02-13,packaging,negative,0
+818,Well packed ✅,mix,instagram,KA,2026-02-01,packaging,positive,0
+819,"Idhu Packing nalla, safe-a vandhuduchu.",ta,reviews,DL,2025-12-18,packaging,positive,0
+820,"Idhu Price romba high, not worth.",ta,twitter,KA,2025-12-10,price,negative,0
+821,UI average.,mix,reviews,KL,2026-02-20,app,neutral,0
+822,"Refund romba slow, 3 days aachu.",mix,twitter,TS,2026-02-17,refund,negative,0
+823,Idhu Not sure if worth yet.,ta,twitter,KL,2026-01-03,price,neutral,0
+824,Idhu Arrived. Will test and update.,ta,youtube,TS,2025-12-13,delivery,neutral,0
+825,"Offer in super deal, good price.",en,reviews,DL,2026-01-20,price,positive,0
+826,Idhu Delivery romba mosam. Tracking update illa.,ta,twitter,AP,2026-02-03,delivery,negative,0
+827,"Service worst, nobody answered.",en,support,KA,2026-01-02,service,negative,0
+828,Return approve pannala.,mix,support,MH,2026-01-27,refund,negative,0
+829,Not sure if worth yet.,en,instagram,DL,2025-12-25,price,neutral,0
+830,Return/refund smooth experience.,mix,twitter,KA,2026-02-05,refund,positive,0
+831,Idhu Will contact support later.,ta,support,TN,2026-01-02,service,neutral,0
+832,Refund came within 5 days.,mix,twitter,DL,2026-02-25,refund,positive,0
+833,Repincement fast-a arrange did.,en,instagram,KL,2025-12-23,service,positive,0
+834,Great service 👏 1 hour wait pannanum,mix,instagram,DL,2026-01-14,refund,negative,1
+835,Quality poor. battery drain iruku.,mix,instagram,AP,2025-12-03,quality,negative,0
+836,Idhu Delivery romba mosam. Tracking update illa.,ta,reviews,KA,2026-01-28,delivery,negative,0
+837,"Complaint raise panniten, no update.",mix,reviews,KL,2026-01-13,service,negative,0
+838,"Idhu App UI smooth, easy to use.",ta,instagram,TS,2025-11-29,app,positive,0
+839,"Support reply pannala, no response for 24 hours wait 😤",mix,reviews,AP,2026-01-04,service,negative,0
+840,Will contact support later.,mix,twitter,DL,2026-01-16,service,neutral,0
+841,Idhu Refund status pending.,ta,twitter,DL,2025-12-23,refund,neutral,0
+842,"Delivery romba late, 4 days delay 😡",mix,instagram,TN,2026-02-08,delivery,negative,0
+843,Delivery super! on-time arrived.,en,youtube,TS,2026-01-12,delivery,positive,0
+844,Idhu Courier smooth-a deliver pannanga.,ta,youtube,TS,2026-02-19,delivery,positive,0
+845,Idhu Quality romba mosam. battery drain iruku.,ta,support,TS,2026-01-31,quality,negative,0
+846,Looks fine. Long-term paakanum.,mix,instagram,DL,2025-12-14,quality,neutral,0
+847,Delivery worst. Tracking update illa.,mix,youtube,TS,2025-12-30,delivery,negative,0
+848,Idhu Will contact support later.,ta,instagram,MH,2026-02-03,service,neutral,0
+849,"Idhu App UI smooth, easy to use.",ta,support,MH,2026-02-12,app,positive,0
+850,"Packaging damage, product scratch.",en,twitter,KA,2025-12-31,packaging,negative,0
+851,Wow amazing… came damaged 🙃,mix,youtube,DL,2025-12-15,quality,negative,1
+852,Replacement fast-a arrange pannanga.,mix,reviews,KA,2025-12-10,service,positive,0
+853,"Idhu Product vera level, satisfied.",ta,support,MH,2026-01-02,quality,positive,0
+854,"Price romba high, not worth.",mix,support,KL,2026-02-05,price,negative,0
+855,Login and checkout easy ✅,mix,instagram,TS,2026-02-19,app,positive,0
+856,Super quality… 3 days la missing parts 😏,mix,instagram,KL,2026-02-21,app,negative,1
+857,Great service 👏 3 days wait pannanum,en,reviews,KL,2026-01-30,service,negative,1
+858,"App ok, sometimes slow.",en,instagram,DL,2026-01-05,app,neutral,0
+859,Installed. Will try inter.,en,twitter,KA,2025-12-18,app,neutral,0
+860,"Idhu Refund stuck, no update.",ta,twitter,DL,2026-01-20,refund,negative,0
+861,"Product received today, open pannain.",en,twitter,AP,2026-02-13,delivery,neutral,0
+862,"Idhu App ok, sometimes slow.",ta,support,MH,2026-02-22,app,neutral,0
+863,"Courier rude, package damage aayiduchu.",mix,instagram,KL,2026-01-31,delivery,negative,0
+864,"Idhu Delivery romba late, 2 days delay 😡",ta,instagram,KL,2026-02-04,delivery,negative,0
+865,"Fast delivery, 4 days la vandhuduchu ✅",mix,support,MH,2026-01-16,delivery,positive,0
+866,First impression average.,mix,support,TN,2026-01-24,quality,neutral,0
+867,Costly and quality poor.,mix,youtube,AP,2025-11-28,price,negative,0
+868,Idhu Same product elsewhere cheaper.,ta,twitter,AP,2026-01-28,price,negative,0
+869,Idhu Quality waste. sound problem iruku.,ta,reviews,KL,2025-12-20,quality,negative,0
+870,Idhu Quality waste. battery drain iruku.,ta,reviews,MH,2025-11-27,quality,negative,0
+871,"Service worst, nobody answered.",mix,youtube,AP,2025-12-01,service,negative,0
+872,"Support team helpful, issue solve pannitanga.",en,reviews,TS,2026-02-22,service,positive,0
+873,Idhu Courier smooth-a deliver pannanga.,ta,twitter,DL,2025-12-13,delivery,positive,0
+874,Refund quick-a process aayiduchu ✅,mix,reviews,KL,2026-02-11,refund,positive,0
+875,"Refund stuck, no update.",en,instagram,AP,2026-02-14,refund,negative,0
+876,"Price romba high, not worth.",mix,reviews,MH,2025-12-22,price,negative,0
+877,"Fast delivery, 5 days la vandhuduchu ✅",mix,reviews,KA,2025-12-01,delivery,positive,0
+878,Delivery super! on-time arrived.,mix,twitter,DL,2026-01-14,delivery,positive,0
+879,Delivery super! on-time arrived.,mix,reviews,TS,2026-02-17,delivery,positive,0
+880,"App crash aagudhu, screen issue.",mix,instagram,AP,2026-01-06,app,negative,0
+881,"Idhu Product nice, satisfied.",ta,youtube,AP,2026-02-12,quality,positive,0
+882,Cheap feel. Not recommended.,mix,twitter,TN,2026-02-20,quality,negative,0
+883,Idhu No comments on packaging.,ta,instagram,KL,2026-02-18,packaging,neutral,0
+884,"App UI smooth, easy to use.",en,twitter,TS,2025-12-02,app,positive,0
+885,Box normal-a irundhuchu.,en,youtube,TS,2026-01-04,packaging,neutral,0
+886,"Packing poor, box torn.",mix,youtube,MH,2026-02-06,packaging,negative,0
+887,"Idhu Support reply pannala, 1 day wait 😤",ta,support,AP,2026-01-30,service,negative,0
+888,No comments on packaging.,en,instagram,TN,2026-01-16,packaging,neutral,0
+889,"Idhu Refund romba slow, no response for 24 hours aachu.",ta,reviews,AP,2026-02-12,refund,negative,0
+890,Idhu Well packed ✅,ta,twitter,MH,2026-01-31,packaging,positive,0
+891,"Fast delivery, 9 days la vandhuduchu ✅",mix,instagram,KA,2025-12-02,delivery,positive,0
+892,Looks fine. Long-term paakanum.,mix,twitter,DL,2026-02-17,quality,neutral,0
+893,3 days la itself broke in 1 day.,mix,support,TN,2025-12-30,quality,negative,0
+894,Worth for money ✅,en,youtube,MH,2025-12-19,price,positive,0
+895,Great service 👏 1 day wait pannanum,mix,support,TS,2025-12-23,app,negative,1
+896,"Idhu Price romba high, not worth.",ta,reviews,TS,2025-12-16,price,negative,0
+897,"Support ticket raised, waiting.",mix,reviews,KA,2025-12-20,service,neutral,0
+898,Quality ok. Normal usage ku podhum.,mix,instagram,KA,2026-01-16,quality,neutral,0
+899,Customer service mass. Quick response.,en,reviews,MH,2025-12-09,service,positive,0
+900,Delivery worst. Tracking update illa.,mix,twitter,TN,2026-02-17,delivery,negative,0
+901,No comments on packaging.,en,twitter,TN,2025-12-10,packaging,neutral,0
+902,"Compinint raise panniten, no update.",en,instagram,DL,2026-01-05,service,negative,0
+903,Idhu Cheap feel. Not recommended.,ta,support,MH,2025-12-12,quality,negative,0
+904,Return approve pannain.,en,instagram,AP,2025-11-27,refund,negative,0
+905,"Idhu App crash aagudhu, battery drain.",ta,instagram,KL,2026-02-22,app,negative,0
+906,Quality cheap. screen issue iruku.,mix,twitter,KL,2026-02-13,quality,negative,0
+907,Idhu Price ok for this quality.,ta,support,AP,2026-01-08,price,positive,0
+908,Looks fine. Long-term paakanum.,mix,youtube,TN,2026-01-29,quality,neutral,0
+909,Price average.,mix,reviews,AP,2026-01-27,price,neutral,0
+910,"Idhu Material good, value for money.",ta,instagram,KA,2026-01-15,quality,positive,0
+911,Idhu Refund came within 4 days.,ta,youtube,MH,2025-12-14,refund,positive,0
+912,"Idhu Complaint raise panniten, no update.",ta,support,TS,2025-12-26,service,negative,0
+913,"Fast delivery, 4 days in arrived ✅",en,youtube,KA,2025-11-27,delivery,positive,0
+914,"Fast delivery, 5 days la vandhuduchu ✅",mix,youtube,KL,2025-12-14,delivery,positive,0
+915,Return/refund smooth experience.,en,twitter,KA,2025-12-14,refund,positive,0
+916,"Delivery very inte, 10 days deiny 😡",en,twitter,MH,2026-02-19,delivery,negative,0
+917,Cheap feel. Not recommended.,mix,twitter,KA,2025-12-28,quality,negative,0
+918,Idhu Worth for money ✅,ta,support,MH,2026-02-24,price,positive,0
+919,"App crash aagudhu, overheating.",mix,youtube,TN,2025-12-11,app,negative,0
+920,"Product received today, open pannain.",en,reviews,AP,2026-02-22,delivery,neutral,0
+921,Idhu 3 days la itself broke in 1 day.,ta,support,TN,2026-01-14,quality,negative,0
+922,"Price very high, not worth.",en,support,DL,2026-02-12,price,negative,0
+923,Delivery super! on-time arrived.,mix,youtube,DL,2026-02-17,delivery,positive,0
+924,"Idhu Packing poor, box torn.",ta,youtube,DL,2025-11-30,packaging,negative,0
+925,Idhu No comments on packaging.,ta,youtube,TN,2025-12-21,packaging,neutral,0
+926,"Packaging damage, product scratch.",en,support,TN,2026-01-27,packaging,negative,0
+927,Wow amazing… came damaged 🙃,en,reviews,KL,2026-01-30,refund,negative,1
+928,Great service 👏 1 hour wait pannanum,ta,twitter,MH,2026-01-08,price,negative,1
+929,"Return initiated, waiting.",mix,instagram,DL,2025-11-30,refund,neutral,0
+930,Not sure if worth yet.,mix,reviews,MH,2025-12-07,price,neutral,0
+931,"Packaging neat, no damage.",mix,support,MH,2026-02-18,packaging,positive,0
+932,"Packing poor, box torn.",mix,reviews,DL,2025-12-02,packaging,negative,0
+933,Idhu Packaging ok.,ta,reviews,MH,2025-12-09,packaging,neutral,0
+934,"Support reply pannala, 1 day wait 😤",mix,instagram,KL,2026-01-03,service,negative,0
+935,Delivery worst. Tracking update ilin.,en,reviews,KA,2025-12-30,delivery,negative,0
+936,"Complaint raise panniten, no update.",mix,youtube,TN,2026-01-02,service,negative,0
+937,First impression average.,en,twitter,KL,2026-02-22,quality,neutral,0
+938,"Product received today, open pannala.",mix,instagram,MH,2026-02-24,delivery,neutral,0
+939,Idhu Well packed ✅,ta,twitter,AP,2025-12-25,packaging,positive,0
+940,Wow amazing… stopped working 🙃,mix,reviews,DL,2025-12-10,packaging,negative,1
+941,Refund quick-a process aayiduchu ✅,mix,instagram,AP,2026-01-17,refund,positive,0
+942,"Idhu App crash aagudhu, overheating.",ta,reviews,MH,2025-12-11,app,negative,0
+943,Wow amazing… late delivery 🙃,ta,youtube,KA,2026-02-07,app,negative,1
+944,Idhu Return approve pannala.,ta,reviews,KL,2026-01-26,refund,negative,0
+945,App performance vera level.,mix,twitter,KA,2025-12-15,app,positive,0
+946,"Packing poor, box torn.",mix,youtube,KA,2025-12-20,packaging,negative,0
+947,Idhu Quality poor. camera blur iruku.,ta,reviews,AP,2026-01-26,quality,negative,0
+948,"Packing poor, box torn.",mix,support,DL,2025-12-22,packaging,negative,0
+949,"Support reply pannain, 3 days wait 😤",en,reviews,KA,2026-01-06,service,negative,0
+950,Idhu Login and checkout easy ✅,ta,support,AP,2025-12-09,app,positive,0
+951,"Service worst, nobody answered.",mix,youtube,KA,2025-12-23,service,negative,0
+952,Great service 👏 3 days wait pannanum,mix,twitter,DL,2026-02-24,packaging,negative,1
+953,9 days in itself missing parts.,en,support,KL,2026-01-20,quality,negative,0
+954,Costly and quality poor.,en,support,TS,2025-12-17,price,negative,0
+955,"Idhu Packaging neat, no damage.",ta,twitter,DL,2025-12-08,packaging,positive,0
+956,"App crash aagudhu, damaged item.",en,support,DL,2026-02-04,app,negative,0
+957,Price ok for this quality.,en,reviews,DL,2026-02-05,price,positive,0
+958,Idhu Customer service worth. Quick response.,ta,reviews,DL,2025-11-27,service,positive,0
+959,Payment failure repeatedly.,mix,twitter,KA,2026-01-19,app,negative,0
+960,Well packed ✅,en,youtube,KL,2025-12-18,packaging,positive,0
+961,App performance mass.,mix,twitter,AP,2026-02-08,app,positive,0
+962,"No bubble wrap, worst packing.",mix,reviews,KA,2025-12-26,packaging,negative,0
+963,Great service 👏 1 hour wait pannanum,mix,support,DL,2025-12-17,quality,negative,1
+964,Super quality… 10 days la stopped working 😏,mix,twitter,AP,2026-02-15,delivery,negative,1
+965,"App crash aagudhu, sound problem.",en,twitter,TS,2026-02-08,app,negative,0
+966,"App ok, sometimes slow.",mix,youtube,KA,2025-12-21,app,neutral,0
+967,Price average.,en,twitter,MH,2026-02-16,price,neutral,0
+968,"Price romba high, not worth.",mix,youtube,KL,2025-12-20,price,negative,0
+969,"Idhu Service romba mosam, nobody answered.",ta,twitter,DL,2026-01-18,service,negative,0
+970,"App UI smooth, easy to use.",mix,instagram,AP,2025-12-20,app,positive,0
+971,"Idhu Fast delivery, 10 days la vandhuduchu ✅",ta,youtube,KL,2026-01-27,delivery,positive,0
+972,Packaging ok.,mix,support,TN,2025-11-29,packaging,neutral,0
+973,"Product vera level, satisfied.",mix,instagram,KA,2025-12-07,quality,positive,0
+974,"App crash aagudhu, battery drain.",mix,youtube,TS,2026-01-25,app,negative,0
+975,Installed. Will try inter.,en,youtube,DL,2026-01-16,app,neutral,0
+976,"Service worst, nobody answered.",en,youtube,TS,2026-01-06,service,negative,0
+977,Idhu First impression average.,ta,twitter,MH,2026-01-23,quality,neutral,0
+978,"Idhu Return initiated, waiting.",ta,support,MH,2026-01-11,refund,neutral,0
+979,Idhu 6 days la itself broke in 1 day.,ta,twitter,KA,2025-12-24,quality,negative,0
+980,"Bug very, worst experience.",en,youtube,TN,2025-12-24,app,negative,0
+981,"Packaging damage, product scratch.",en,support,KA,2025-12-24,packaging,negative,0
+982,"Refund romba slow, 3 days aachu.",mix,instagram,KL,2025-12-22,refund,negative,0
+983,"Delivery very inte, 6 days deiny 😡",en,instagram,AP,2026-02-11,delivery,negative,0
+984,Great service 👏 2 hours wait pannanum,mix,support,DL,2025-11-27,app,negative,1
+985,Idhu Arrived. Will test and update.,ta,support,TS,2025-12-02,delivery,neutral,0
+986,7 days la itself late delivery.,mix,youtube,KL,2026-01-10,quality,negative,0
+987,Idhu Quality ok. Normal usage ku podhum.,ta,reviews,MH,2026-01-29,quality,neutral,0
+988,Worth for money ✅,en,youtube,TN,2026-02-23,price,positive,0
+989,Idhu Delivery nalla! on-time arrived.,ta,twitter,MH,2025-12-30,delivery,positive,0
+990,"App ok, sometimes slow.",mix,reviews,TS,2025-12-31,app,neutral,0
+991,Idhu Return approve pannala.,ta,reviews,TS,2026-02-16,refund,negative,0
+992,"Material good, value for money.",mix,reviews,DL,2025-12-25,quality,positive,0
+993,"Refund romba slow, 2 hours aachu.",mix,instagram,DL,2026-02-19,refund,negative,0
+994,Payment failure repeatedly.,mix,reviews,KA,2026-01-15,app,negative,0
+995,"Packaging damage, product scratch.",mix,youtube,DL,2026-01-05,packaging,negative,0
+996,"Idhu Support reply pannala, 3 days wait 😤",ta,support,DL,2026-01-31,service,negative,0
+997,"Idhu App UI smooth, easy to use.",ta,support,KL,2026-02-17,app,positive,0
+998,"Idhu Support reply pannala, no response for 24 hours wait 😤",ta,youtube,KA,2025-11-30,service,negative,0
+999,Idhu 7 days la itself missing parts.,ta,instagram,AP,2025-12-16,quality,negative,0
+1000,"Delivery ok, but pakalam.",mix,reviews,TN,2026-01-20,delivery,neutral,0
