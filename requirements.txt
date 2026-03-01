@@ -1,6 +1,7 @@
-streamlit==1.32.0
-pandas==2.2.2
-scikit-learn==1.3.2
-joblib==1.3.2
-altair==5.2.0
-google-api-python-client==2.114.0
+streamlit
+pandas
+scikit-learn
+joblib
+altair
+google-api-python-client
+urllib3
